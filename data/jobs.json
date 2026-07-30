@@ -1,20 +1,5 @@
 [
   {
-    "id": "job-101",
-    "title": "Lead Software Engineer - Python & Cloud",
-    "company": "Global Tech Ventures",
-    "location": "Santiago, Chile (Híbrido)",
-    "url": "https://www.linkedin.com/jobs/view/9876543210",
-    "posted_date": "2026-07-29",
-    "search_keyword": "Software Engineer",
-    "description": "Buscamos Lead Software Engineer para liderar equipo de desarrollo backend en Python. Experiencia sólida en Docker, Kubernetes, FastAPI, REST APIs y metodologías ágiles.",
-    "skills": ["Python", "FastAPI", "Docker", "Kubernetes", "REST APIs", "Liderazgo"],
-    "match_score": 92,
-    "match_reasons": ["Alta similitud con postulaciones anteriores", "Coincidencia en Python, FastAPI y Docker"],
-    "status": "Disponible",
-    "notes": ""
-  },
-  {
     "id": "job-102",
     "title": "Full Stack Developer (React & Python)",
     "company": "DataPulse Latam",
@@ -23,11 +8,183 @@
     "posted_date": "2026-07-30",
     "search_keyword": "Desarrollador Full Stack",
     "description": "DataPulse busca Desarrollador Full Stack con pasión por crear dashboards intuitivos y APIs escalables. Requisitos: React.js, Tailwind, Python, PostgreSQL.",
-    "skills": ["React", "Python", "PostgreSQL", "Tailwind", "REST APIs"],
-    "match_score": 88,
-    "match_reasons": ["Coincide con tu perfil de Full Stack", "Frontend React y Backend Python"],
+    "skills": [
+      "React",
+      "Python",
+      "PostgreSQL",
+      "Tailwind",
+      "REST APIs"
+    ],
+    "match_score": 52,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Sql, Rest Apis",
+      "El título coincide con tus roles preferidos",
+      "Similitud del 30% con tus postulaciones previas"
+    ],
     "status": "Disponible",
     "notes": ""
+  },
+  {
+    "id": "job-101",
+    "title": "Lead Software Engineer - Python & Cloud",
+    "company": "Global Tech Ventures",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/9876543210",
+    "posted_date": "2026-07-29",
+    "search_keyword": "Software Engineer",
+    "description": "Buscamos Lead Software Engineer para liderar equipo de desarrollo backend en Python. Experiencia sólida en Docker, Kubernetes, FastAPI, REST APIs y metodologías ágiles.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "Kubernetes",
+      "REST APIs",
+      "Liderazgo"
+    ],
+    "match_score": 51,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, Docker, Rest Apis",
+      "El título coincide con tus roles preferidos",
+      "Similitud del 28% con tus postulaciones previas"
+    ],
+    "status": "Disponible",
+    "notes": ""
+  },
+  {
+    "id": "linkedin-10819130",
+    "title": "Full Stack Developer (Python)",
+    "company": "Perform",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/full-stack-developer-python-at-perform-4415692509",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Backend Developer Python",
+    "description": "Oferta de empleo para Full Stack Developer (Python) en Perform. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Node.Js",
+      "El título coincide con tus roles preferidos",
+      "Similitud del 28% con tus postulaciones previas"
+    ]
+  },
+  {
+    "id": "linkedin-5040209",
+    "title": "Software Engineer - Backend",
+    "company": "Mercado Libre",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4438438047",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "Software Engineer",
+    "description": "Oferta de empleo para Software Engineer - Backend en Mercado Libre. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "FastAPI"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 47,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, Sql",
+      "El título coincide con tus roles preferidos",
+      "Similitud del 23% con tus postulaciones previas"
+    ]
+  },
+  {
+    "id": "linkedin-956932",
+    "title": "Full Stack Developers",
+    "company": "Deloitte",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/full-stack-developers-at-deloitte-4441265357",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "Desarrollador Full Stack",
+    "description": "Oferta de empleo para Full Stack Developers en Deloitte. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 47,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Node.Js",
+      "El título coincide con tus roles preferidos",
+      "Similitud del 24% con tus postulaciones previas"
+    ]
+  },
+  {
+    "id": "linkedin-956932",
+    "title": "Full Stack Developers",
+    "company": "Deloitte",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/full-stack-developers-at-deloitte-4441265357",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "Backend Developer Python",
+    "description": "Oferta de empleo para Full Stack Developers en Deloitte. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 47,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Node.Js",
+      "El título coincide con tus roles preferidos",
+      "Similitud del 24% con tus postulaciones previas"
+    ]
+  },
+  {
+    "id": "linkedin-4990373",
+    "title": "Practicante Software Engineer — área de Personas",
+    "company": "NeuralWorks",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/practicante-software-engineer-%E2%80%94-%C3%A1rea-de-personas-at-neuralworks-4442651322",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Software Engineer",
+    "description": "Oferta de empleo para Practicante Software Engineer — área de Personas en NeuralWorks. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 39,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis",
+      "El título coincide con tus roles preferidos"
+    ]
+  },
+  {
+    "id": "linkedin-8332098",
+    "title": "Software Engineer",
+    "company": "Fingo",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026",
+    "posted_date": "Hace 4 semanas",
+    "search_keyword": "Software Engineer",
+    "description": "Oferta de empleo para Software Engineer en Fingo. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 39,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis",
+      "El título coincide con tus roles preferidos"
+    ]
   },
   {
     "id": "job-103",
@@ -38,10 +195,217 @@
     "posted_date": "2026-07-28",
     "search_keyword": "AI / ML Engineer",
     "description": "Buscamos Ingeniero de Automatización e IA para integrar modelos de lenguaje (LLMs) y agentes autónomos usando Python, LangChain, GitHub Actions y APIs.",
-    "skills": ["Python", "Machine Learning", "LLMs", "GitHub Actions", "APIs"],
-    "match_score": 85,
-    "match_reasons": ["Coincidencia en Python y GitHub Actions", "Área de interés en IA / ML"],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLMs",
+      "GitHub Actions",
+      "APIs"
+    ],
+    "match_score": 34,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git, Github Actions, Machine Learning",
+      "El título coincide parcialmente con tus roles de interés",
+      "Similitud del 20% con tus postulaciones previas"
+    ],
     "status": "Disponible",
     "notes": ""
+  },
+  {
+    "id": "linkedin-2778982",
+    "title": "Desarrollador Backend",
+    "company": "Nisum",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-at-nisum-4415559265",
+    "posted_date": "Hace 2 meses",
+    "search_keyword": "Backend Developer Python",
+    "description": "Oferta de empleo para Desarrollador Backend en Nisum. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "FastAPI"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 32,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, Sql",
+      "El título coincide parcialmente con tus roles de interés",
+      "Similitud del 24% con tus postulaciones previas"
+    ]
+  },
+  {
+    "id": "linkedin-15297369",
+    "title": "Practicante De Desarrollo Full Stack Multiplataforma",
+    "company": "Go",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-full-stack-multiplataforma-at-go-4434031139",
+    "posted_date": "Hace 1 mes",
+    "search_keyword": "Backend Developer Python",
+    "description": "Oferta de empleo para Practicante De Desarrollo Full Stack Multiplataforma en Go. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 31,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Node.Js",
+      "El título coincide parcialmente con tus roles de interés",
+      "Similitud del 21% con tus postulaciones previas"
+    ]
+  },
+  {
+    "id": "linkedin-6753627",
+    "title": "Desarrollador Full-stack",
+    "company": "MatchFY Agência Digital",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-full-stack-at-matchfy-ag%C3%AAncia-digital-4423562379",
+    "posted_date": "Hace 1 mes",
+    "search_keyword": "Desarrollador Full Stack",
+    "description": "Oferta de empleo para Desarrollador Full-stack en MatchFY Agência Digital. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 24,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis",
+      "El título coincide parcialmente con tus roles de interés"
+    ]
+  },
+  {
+    "id": "linkedin-798890",
+    "title": "Desarrollador/a Full-Stack",
+    "company": "BC Tecnología",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-bc-tecnolog%C3%ADa-4410858141",
+    "posted_date": "Hace 2 meses",
+    "search_keyword": "Desarrollador Full Stack",
+    "description": "Oferta de empleo para Desarrollador/a Full-Stack en BC Tecnología. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 24,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis",
+      "El título coincide parcialmente con tus roles de interés"
+    ]
+  },
+  {
+    "id": "linkedin-7082585",
+    "title": "Desarrollador(a) Full-Stack",
+    "company": "BC Tecnología",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-bc-tecnolog%C3%ADa-4416392824",
+    "posted_date": "Hace 2 meses",
+    "search_keyword": "Desarrollador Full Stack",
+    "description": "Oferta de empleo para Desarrollador(a) Full-Stack en BC Tecnología. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 24,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis",
+      "El título coincide parcialmente con tus roles de interés"
+    ]
+  },
+  {
+    "id": "linkedin-9225284",
+    "title": "Desarrollador/a Full-Stack",
+    "company": "BC Tecnología",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-a-full-stack-at-bc-tecnolog%C3%ADa-4412190224",
+    "posted_date": "Hace 2 meses",
+    "search_keyword": "Desarrollador Full Stack",
+    "description": "Oferta de empleo para Desarrollador/a Full-Stack en BC Tecnología. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 24,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis",
+      "El título coincide parcialmente con tus roles de interés"
+    ]
+  },
+  {
+    "id": "linkedin-1272959",
+    "title": "Desarrollador Junior Node.js - Trabajo Remoto",
+    "company": "BairesDev",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4445164557",
+    "posted_date": "Hace 3 días",
+    "search_keyword": "Software Engineer",
+    "description": "Oferta de empleo para Desarrollador Junior Node.js - Trabajo Remoto en BairesDev. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 14,
+    "match_reasons": [
+      "Habilidades coincidentes: Node.Js, Git, Rest Apis"
+    ]
+  },
+  {
+    "id": "linkedin-1272959",
+    "title": "Desarrollador Junior Node.js - Trabajo Remoto",
+    "company": "BairesDev",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4445164557",
+    "posted_date": "Hace 3 días",
+    "search_keyword": "Backend Developer Python",
+    "description": "Oferta de empleo para Desarrollador Junior Node.js - Trabajo Remoto en BairesDev. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 14,
+    "match_reasons": [
+      "Habilidades coincidentes: Node.Js, Git, Rest Apis"
+    ]
+  },
+  {
+    "id": "linkedin-13690013",
+    "title": "Puestos vacantes: Programadora(or) (20526)",
+    "company": "Antofagasta Minerals",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/puestos-vacantes-programadora-or-20526-at-grupo-antofagasta-minerals-4446175230",
+    "posted_date": "Hace 2 días",
+    "search_keyword": "Software Engineer",
+    "description": "Oferta de empleo para Puestos vacantes: Programadora(or) (20526) en Antofagasta Minerals. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis"
+    ]
   }
 ]
