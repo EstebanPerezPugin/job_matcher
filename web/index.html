@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JobAgent AI - Dashboard de Búsqueda & Postulaciones</title>
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Remixicon UI Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet">
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon">
+          <i class="ri-radar-line"></i>
+        </div>
+        <div class="brand-text">
+          <h2>JobAgent <span>AI</span></h2>
+          <p>Scout & Matcher</p>
+        </div>
+      </div>
+
+      <nav class="nav-menu">
+        <button class="nav-item active" data-tab="tab-available">
+          <i class="ri-briefcase-line"></i>
+          <span>Empleos Disponibles</span>
+          <span class="badge badge-accent" id="badge-available-count">0</span>
+        </button>
+        <button class="nav-item" data-tab="tab-applied">
+          <i class="ri-checkbox-circle-line"></i>
+          <span>Mis Postulaciones</span>
+          <span class="badge" id="badge-applied-count">0</span>
+        </button>
+        <button class="nav-item" data-tab="tab-analytics">
+          <i class="ri-brain-line"></i>
+          <span>Aprendizaje de IA</span>
+        </button>
+        <button class="nav-item" data-tab="tab-profile">
+          <i class="ri-user-settings-line"></i>
+          <span>Perfil & Buscador</span>
+        </button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="sync-status">
+          <span class="status-indicator online"></span>
+          <div class="status-info">
+            <span class="status-title">GitHub Actions Sync</span>
+            <span class="status-subtitle" id="last-update-text">Actualizado recientemente</span>
+          </div>
+        </div>
+        <button class="btn btn-secondary btn-full mt-3" id="btn-export-data">
+          <i class="ri-download-cloud-line"></i> Exportar JSON
+        </button>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      <!-- Top Navbar -->
+      <header class="top-header">
+        <div class="header-title">
+          <h1 id="header-page-title">Empleos Disponibles para Postular</h1>
+          <p id="header-page-desc">Ofertas encontradas en LinkedIn con puntuación de afinidad mediante Inteligencia Artificial.</p>
+        </div>
+        <div class="header-actions">
+          <div class="search-box">
+            <i class="ri-search-line"></i>
+            <input type="text" id="global-search-input" placeholder="Buscar por cargo, empresa o tecnología...">
+          </div>
+          <button class="btn btn-primary" id="btn-open-add-applied">
+            <i class="ri-add-line"></i> Registrar Postulación
+          </button>
+        </div>
+      </header>
+
+      <!-- TAB 1: EMPLEOS DISPONIBLES PARA POSTULAR -->
+      <section class="tab-pane active" id="tab-available">
+        <div class="filter-bar">
+          <div class="filter-group">
+            <label><i class="ri-filter-3-line"></i> Filtrar por:</label>
+            <select id="filter-min-score">
+              <option value="0">Todos los Match Scores</option>
+              <option value="80">Match > 80% (Muy Alto)</option>
+              <option value="60">Match > 60% (Recomendado)</option>
+            </select>
+            <select id="filter-location">
+              <option value="all">Todas las ubicaciones</option>
+              <option value="remoto">Solo Remoto</option>
+              <option value="chile">Chile</option>
+            </select>
+          </div>
+          <div class="filter-stats">
+            <span>Mostrando <strong id="displayed-jobs-count">0</strong> ofertas</span>
+          </div>
+        </div>
+
+        <div class="jobs-grid" id="available-jobs-container">
+          <!-- Job cards populated via app.js -->
+        </div>
+      </section>
+
+      <!-- TAB 2: TRABAJOS POSTULADOS -->
+      <section class="tab-pane" id="tab-applied">
+        <div class="applied-summary-cards">
+          <div class="summary-card">
+            <div class="card-icon icon-blue"><i class="ri-send-plane-line"></i></div>
+            <div class="card-data">
+              <h3 id="stat-total-applied">0</h3>
+              <p>Postulaciones Totales</p>
+            </div>
+          </div>
+          <div class="summary-card">
+            <div class="card-icon icon-purple"><i class="ri-user-voice-line"></i></div>
+            <div class="card-data">
+              <h3 id="stat-interviewing">0</h3>
+              <p>En Proceso de Entrevista</p>
+            </div>
+          </div>
+          <div class="summary-card">
+            <div class="card-icon icon-green"><i class="ri-trophy-line"></i></div>
+            <div class="card-data">
+              <h3 id="stat-offers">0</h3>
+              <p>Ofertas Recibidas</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="applied-list" id="applied-jobs-container">
+          <!-- Applied jobs rendered via app.js -->
+        </div>
+      </section>
+
+      <!-- TAB 3: APRENDIZAJE DE IA & ANALYTICS -->
+      <section class="tab-pane" id="tab-analytics">
+        <div class="analytics-grid">
+          <div class="analytics-card card-glass">
+            <h3><i class="ri-sparkles-fill color-gold"></i> Palabras Clave Aprendidas</h3>
+            <p class="section-desc">Conceptos y habilidades clave detectados en los empleos donde has postulado. El motor de recomendación les otorga mayor peso.</p>
+            <div class="keywords-cloud" id="learned-keywords-cloud">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+
+          <div class="analytics-card card-glass">
+            <h3><i class="ri-pie-chart-2-line color-cyan"></i> Coincidencia de Habilidades Deseadas</h3>
+            <p class="section-desc">Habilidades de tu perfil presentes en la base de vacantes.</p>
+            <div class="skills-match-list" id="skills-match-list">
+              <!-- Rendered via JS -->
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- TAB 4: PERFIL Y CONFIGURACIÓN -->
+      <section class="tab-pane" id="tab-profile">
+        <div class="profile-card card-glass">
+          <h3><i class="ri-user-3-line"></i> Configuración de Perfil & Búsqueda</h3>
+          <form id="profile-form">
+            <div class="form-group">
+              <label>Nombre Completo / Usuario</label>
+              <input type="text" id="prof-name" class="form-control" placeholder="Tu nombre">
+            </div>
+            <div class="form-group">
+              <label>Cargos Objetivo (Separados por coma)</label>
+              <input type="text" id="prof-target-roles" class="form-control">
+            </div>
+            <div class="form-group">
+              <label>Tus Habilidades Clave (Separadas por coma)</label>
+              <textarea id="prof-skills" class="form-control" rows="3"></textarea>
+            </div>
+            <div class="form-group">
+              <label>Palabras Clave para Búsqueda en LinkedIn</label>
+              <input type="text" id="prof-search-keywords" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-primary"><i class="ri-save-line"></i> Guardar Configuración</button>
+          </form>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Modal para Registrar Nueva Postulación -->
+  <div class="modal-backdrop" id="modal-add-applied">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3>Registrar Nueva Postulación</h3>
+        <button class="modal-close" id="btn-close-modal"><i class="ri-close-line"></i></button>
+      </div>
+      <form id="add-applied-form">
+        <div class="form-group">
+          <label>Título del Cargo *</label>
+          <input type="text" id="modal-title" class="form-control" required placeholder="Ej: Senior Python Developer">
+        </div>
+        <div class="form-group">
+          <label>Empresa *</label>
+          <input type="text" id="modal-company" class="form-control" required placeholder="Ej: Tech Latam">
+        </div>
+        <div class="form-group">
+          <label>Enlace / URL de LinkedIn</label>
+          <input type="url" id="modal-url" class="form-control" placeholder="https://www.linkedin.com/jobs/view/...">
+        </div>
+        <div class="form-group">
+          <label>Estado de Postulación</label>
+          <select id="modal-status" class="form-control">
+            <option value="Postulado">Postulado</option>
+            <option value="Entrevista">En Entrevista</option>
+            <option value="Oferta">Oferta Recibida</option>
+            <option value="Rechazado">Rechazado</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Notas / Comentarios</label>
+          <textarea id="modal-notes" class="form-control" rows="2" placeholder="Detalles de entrevistas, contacto o feedback..."></textarea>
+        </div>
+        <div class="modal-actions">
+          <button type="button" class="btn btn-secondary" id="btn-cancel-modal">Cancelar</button>
+          <button type="submit" class="btn btn-primary">Guardar y Entrenar IA</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Main JavaScript -->
+  <script src="app.js"></script>
+</body>
+</html>

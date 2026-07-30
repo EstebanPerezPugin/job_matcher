@@ -1,0 +1,37 @@
+{
+  "user_name": "Usuario",
+  "target_roles": [
+    "Software Engineer",
+    "Full Stack Developer",
+    "Backend Developer",
+    "Python Engineer",
+    "Data Engineer",
+    "AI / ML Engineer"
+  ],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "FastAPI",
+    "SQL",
+    "Docker",
+    "Git",
+    "REST APIs",
+    "GitHub Actions",
+    "Machine Learning"
+  ],
+  "preferred_locations": [
+    "Santiago, Chile",
+    "Chile",
+    "Remote"
+  ],
+  "remote_only": false,
+  "min_match_score": 50,
+  "search_keywords": [
+    "Software Engineer",
+    "Desarrollador Full Stack",
+    "Backend Developer Python"
+  ]
+}

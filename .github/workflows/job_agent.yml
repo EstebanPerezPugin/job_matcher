@@ -1,0 +1,45 @@
+name: LinkedIn Job Finder Agent
+
+on:
+  schedule:
+    # Se ejecuta 2 veces al día (a las 08:00 y 20:00 UTC)
+    - cron: '0 8,20 * * *'
+  workflow_dispatch:
+    inputs:
+      force_search:
+        description: 'Forzar búsqueda inmediata de empleos'
+        required: false
+        default: 'true'
+
+permissions:
+  contents: write
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Job Agent & NLP Matcher
+        env:
+          LINKEDIN_COOKIE: ${{ secrets.LINKEDIN_COOKIE }}
+        run: |
+          python src/agent/main.py
+
+      - name: Commit and Push Updated Data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): actualización automática de empleos y match scores [skip ci]"
+          file_pattern: "data/*.json"

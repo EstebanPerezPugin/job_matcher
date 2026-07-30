@@ -1,0 +1,26 @@
+[
+  {
+    "id": "app-1",
+    "title": "Senior Python Backend Developer",
+    "company": "TechInnovate Solutions",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/1234567890",
+    "applied_date": "2026-07-25",
+    "status": "Entrevista",
+    "notes": "Entrevista inicial completada. Enfocado en FastAPI, PostgreSQL y Docker.",
+    "description": "Buscamos Senior Python Backend Developer con experiencia en FastAPI, PostgreSQL, Docker y arquitectura de microservicios. Trabajo 100% remoto en Chile.",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "Microservicios"]
+  },
+  {
+    "id": "app-2",
+    "title": "Full Stack Engineer (React + Node/Python)",
+    "company": "CloudScale Latam",
+    "location": "Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/1234567891",
+    "applied_date": "2026-07-20",
+    "status": "Postulado",
+    "notes": "Postulación directa en el portal corporativo.",
+    "description": "Buscamos Full Stack Engineer para crear aplicaciones web modernas. Requerido: React, TypeScript, Python o Node.js, CI/CD con GitHub Actions y AWS.",
+    "skills": ["React", "TypeScript", "Python", "Node.js", "GitHub Actions", "AWS"]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "job-101",
+    "title": "Lead Software Engineer - Python & Cloud",
+    "company": "Global Tech Ventures",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/9876543210",
+    "posted_date": "2026-07-29",
+    "search_keyword": "Software Engineer",
+    "description": "Buscamos Lead Software Engineer para liderar equipo de desarrollo backend en Python. Experiencia sólida en Docker, Kubernetes, FastAPI, REST APIs y metodologías ágiles.",
+    "skills": ["Python", "FastAPI", "Docker", "Kubernetes", "REST APIs", "Liderazgo"],
+    "match_score": 92,
+    "match_reasons": ["Alta similitud con postulaciones anteriores", "Coincidencia en Python, FastAPI y Docker"],
+    "status": "Disponible",
+    "notes": ""
+  },
+  {
+    "id": "job-102",
+    "title": "Full Stack Developer (React & Python)",
+    "company": "DataPulse Latam",
+    "location": "Remoto (Chile)",
+    "url": "https://www.linkedin.com/jobs/view/9876543211",
+    "posted_date": "2026-07-30",
+    "search_keyword": "Desarrollador Full Stack",
+    "description": "DataPulse busca Desarrollador Full Stack con pasión por crear dashboards intuitivos y APIs escalables. Requisitos: React.js, Tailwind, Python, PostgreSQL.",
+    "skills": ["React", "Python", "PostgreSQL", "Tailwind", "REST APIs"],
+    "match_score": 88,
+    "match_reasons": ["Coincide con tu perfil de Full Stack", "Frontend React y Backend Python"],
+    "status": "Disponible",
+    "notes": ""
+  },
+  {
+    "id": "job-103",
+    "title": "AI & Automation Engineer",
+    "company": "NextGen AI Labs",
+    "location": "Remoto",
+    "url": "https://www.linkedin.com/jobs/view/9876543212",
+    "posted_date": "2026-07-28",
+    "search_keyword": "AI / ML Engineer",
+    "description": "Buscamos Ingeniero de Automatización e IA para integrar modelos de lenguaje (LLMs) y agentes autónomos usando Python, LangChain, GitHub Actions y APIs.",
+    "skills": ["Python", "Machine Learning", "LLMs", "GitHub Actions", "APIs"],
+    "match_score": 85,
+    "match_reasons": ["Coincidencia en Python y GitHub Actions", "Área de interés en IA / ML"],
+    "status": "Disponible",
+    "notes": ""
+  }
+]
