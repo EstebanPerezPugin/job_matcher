@@ -23,7 +23,7 @@
         </div>
         <div class="brand-text">
           <h2>JobAgent <span>AI</span></h2>
-          <p>Scout & Matcher</p>
+          <p>LinkedIn & 6-Month Matcher</p>
         </div>
       </div>
 
@@ -40,11 +40,11 @@
         </button>
         <button class="nav-item" data-tab="tab-analytics">
           <i class="ri-brain-line"></i>
-          <span>Aprendizaje de IA</span>
+          <span>Aprendizaje (6 Meses)</span>
         </button>
         <button class="nav-item" data-tab="tab-profile">
           <i class="ri-user-settings-line"></i>
-          <span>Perfil & Buscador</span>
+          <span>Perfil LinkedIn & Filtros</span>
         </button>
       </nav>
 
@@ -68,7 +68,7 @@
       <header class="top-header">
         <div class="header-title">
           <h1 id="header-page-title">Empleos Disponibles para Postular</h1>
-          <p id="header-page-desc">Ofertas encontradas en LinkedIn con puntuación de afinidad mediante Inteligencia Artificial.</p>
+          <p id="header-page-desc">Ofertas encontradas en LinkedIn basadas en tu perfil y postulaciones de los últimos 6 meses.</p>
         </div>
         <div class="header-actions">
           <div class="search-box">
@@ -90,6 +90,10 @@
               <option value="0">Todos los Match Scores</option>
               <option value="80">Match > 80% (Muy Alto)</option>
               <option value="60">Match > 60% (Recomendado)</option>
+            </select>
+            <select id="filter-recent-only">
+              <option value="all">Todas las vacantes</option>
+              <option value="recent_match">⭐ Similares a Postulaciones (< 6 Meses)</option>
             </select>
             <select id="filter-location">
               <option value="all">Todas las ubicaciones</option>
@@ -142,17 +146,17 @@
       <section class="tab-pane" id="tab-analytics">
         <div class="analytics-grid">
           <div class="analytics-card card-glass">
-            <h3><i class="ri-sparkles-fill color-gold"></i> Palabras Clave Aprendidas</h3>
-            <p class="section-desc">Conceptos y habilidades clave detectados en los empleos donde has postulado. El motor de recomendación les otorga mayor peso.</p>
+            <h3><i class="ri-sparkles-fill color-gold"></i> Palabras Clave de los Últimos 6 Meses</h3>
+            <p class="section-desc">Habilidades y tecnologías extraídas de tus postulaciones realizadas en los últimos 6 meses.</p>
             <div class="keywords-cloud" id="learned-keywords-cloud">
               <!-- Rendered via JS -->
             </div>
           </div>
 
           <div class="analytics-card card-glass">
-            <h3><i class="ri-pie-chart-2-line color-cyan"></i> Coincidencia de Habilidades Deseadas</h3>
-            <p class="section-desc">Habilidades de tu perfil presentes en la base de vacantes.</p>
-            <div class="skills-match-list" id="skills-match-list">
+            <h3><i class="ri-linkedin-box-fill color-blue"></i> Perfil de LinkedIn Vinculado</h3>
+            <p class="section-desc">Información del titular de LinkedIn utilizada para personalizar el motor de emparejamiento.</p>
+            <div id="linkedin-profile-box" style="line-height: 1.8;">
               <!-- Rendered via JS -->
             </div>
           </div>
@@ -162,11 +166,19 @@
       <!-- TAB 4: PERFIL Y CONFIGURACIÓN -->
       <section class="tab-pane" id="tab-profile">
         <div class="profile-card card-glass">
-          <h3><i class="ri-user-3-line"></i> Configuración de Perfil & Búsqueda</h3>
+          <h3><i class="ri-user-3-line"></i> Configuración de Perfil LinkedIn & Búsqueda</h3>
           <form id="profile-form">
             <div class="form-group">
-              <label>Nombre Completo / Usuario</label>
+              <label>Nombre Completo</label>
               <input type="text" id="prof-name" class="form-control" placeholder="Tu nombre">
+            </div>
+            <div class="form-group">
+              <label>URL de Perfil de LinkedIn</label>
+              <input type="url" id="prof-linkedin-url" class="form-control" placeholder="https://www.linkedin.com/in/tu-perfil">
+            </div>
+            <div class="form-group">
+              <label>Titular / Headline de LinkedIn</label>
+              <input type="text" id="prof-linkedin-headline" class="form-control" placeholder="Ej: Software Engineer | Python & Full Stack Developer">
             </div>
             <div class="form-group">
               <label>Cargos Objetivo (Separados por coma)</label>
@@ -180,7 +192,7 @@
               <label>Palabras Clave para Búsqueda en LinkedIn</label>
               <input type="text" id="prof-search-keywords" class="form-control">
             </div>
-            <button type="submit" class="btn btn-primary"><i class="ri-save-line"></i> Guardar Configuración</button>
+            <button type="submit" class="btn btn-primary"><i class="ri-save-line"></i> Guardar Perfil & Actualizar IA</button>
           </form>
         </div>
       </section>
@@ -203,6 +215,10 @@
         <div class="form-group">
           <label>Empresa *</label>
           <input type="text" id="modal-company" class="form-control" required placeholder="Ej: Tech Latam">
+        </div>
+        <div class="form-group">
+          <label>Fecha de Postulación *</label>
+          <input type="date" id="modal-date" class="form-control" required>
         </div>
         <div class="form-group">
           <label>Enlace / URL de LinkedIn</label>

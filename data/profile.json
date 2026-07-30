@@ -1,25 +1,28 @@
 {
-  "user_name": "Usuario",
+  "user_name": "Esteban Pérez",
+  "linkedin_profile_url": "https://www.linkedin.com/in/estebanperez",
+  "linkedin_headline": "Software Engineer | Python Backend & Full Stack Developer | Machine Learning & Cloud",
+  "timeframe_months": 6,
   "target_roles": [
+    "Senior Python Backend Developer",
+    "Full Stack Engineer",
     "Software Engineer",
-    "Full Stack Developer",
-    "Backend Developer",
-    "Python Engineer",
-    "Data Engineer",
+    "Backend Developer Python",
     "AI / ML Engineer"
   ],
   "skills": [
     "Python",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Node.js",
     "FastAPI",
-    "SQL",
+    "PostgreSQL",
+    "React",
+    "TypeScript",
+    "Node.js",
     "Docker",
+    "Microservices",
     "Git",
     "REST APIs",
     "GitHub Actions",
+    "AWS",
     "Machine Learning"
   ],
   "preferred_locations": [
@@ -30,8 +33,9 @@
   "remote_only": false,
   "min_match_score": 50,
   "search_keywords": [
-    "Software Engineer",
-    "Desarrollador Full Stack",
-    "Backend Developer Python"
+    "Senior Python Backend Developer",
+    "Full Stack Engineer React Python",
+    "Desarrollador Backend Python FastAPI",
+    "AI Machine Learning Engineer"
   ]
 }
