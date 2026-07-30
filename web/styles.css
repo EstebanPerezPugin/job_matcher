@@ -287,6 +287,16 @@ body {
 
 .mt-3 { margin-top: 12px; }
 
+.spin {
+  animation: spin 1s infinite linear;
+  display: inline-block;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
 /* Filter Bar */
 .filter-bar {
   display: flex;

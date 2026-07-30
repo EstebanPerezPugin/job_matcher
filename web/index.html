@@ -52,8 +52,8 @@
         <div class="sync-status">
           <span class="status-indicator online"></span>
           <div class="status-info">
-            <span class="status-title">GitHub Actions Sync</span>
-            <span class="status-subtitle" id="last-update-text">Actualizado recientemente</span>
+            <span class="status-title">GitHub Actions & Local</span>
+            <span class="status-subtitle" id="last-update-text">Sesión activa</span>
           </div>
         </div>
         <button class="btn btn-secondary btn-full mt-3" id="btn-export-data">
@@ -85,7 +85,7 @@
       <section class="tab-pane active" id="tab-available">
         <div class="filter-bar">
           <div class="filter-group">
-            <label><i class="ri-filter-3-line"></i> Filtrar por:</label>
+            <label><i class="ri-filter-3-line"></i> Filtrar:</label>
             <select id="filter-min-score">
               <option value="0">Todos los Match Scores</option>
               <option value="80">Match > 80% (Muy Alto)</option>
@@ -101,8 +101,11 @@
               <option value="chile">Chile</option>
             </select>
           </div>
-          <div class="filter-stats">
-            <span>Mostrando <strong id="displayed-jobs-count">0</strong> ofertas</span>
+          <div class="filter-actions-right" style="display: flex; align-items: center; gap: 12px;">
+            <span style="font-size: 13px; color: var(--text-muted);">Total: <strong id="displayed-jobs-count" style="color: #fff;">0</strong></span>
+            <button class="btn btn-primary" id="btn-refresh-jobs" style="padding: 6px 14px; font-size: 13px;">
+              <i class="ri-refresh-line" id="refresh-icon"></i> Buscar Más Vacantes con IA
+            </button>
           </div>
         </div>
 
@@ -137,6 +140,13 @@
           </div>
         </div>
 
+        <div class="applied-list-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+          <h3 style="font-family: var(--font-heading); font-size: 18px;">Historial de Postulaciones (Usadas como referencia para la IA)</h3>
+          <button class="btn btn-secondary" id="btn-open-add-applied-2" style="font-size: 13px;">
+            <i class="ri-add-line"></i> Agregar Nueva Postulación
+          </button>
+        </div>
+
         <div class="applied-list" id="applied-jobs-container">
           <!-- Applied jobs rendered via app.js -->
         </div>
@@ -146,8 +156,8 @@
       <section class="tab-pane" id="tab-analytics">
         <div class="analytics-grid">
           <div class="analytics-card card-glass">
-            <h3><i class="ri-sparkles-fill color-gold"></i> Palabras Clave de los Últimos 6 Meses</h3>
-            <p class="section-desc">Habilidades y tecnologías extraídas de tus postulaciones realizadas en los últimos 6 meses.</p>
+            <h3><i class="ri-sparkles-fill color-gold"></i> Palabras Clave Aprendidas (< 6 Meses)</h3>
+            <p class="section-desc">Conceptos y habilidades extraídos de tus postulaciones recientes usados para realizar búsquedas avanzadas en LinkedIn.</p>
             <div class="keywords-cloud" id="learned-keywords-cloud">
               <!-- Rendered via JS -->
             </div>

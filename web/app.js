@@ -7,7 +7,8 @@ let state = {
   searchQuery: '',
   minScoreFilter: 0,
   recentFilter: 'all',
-  locationFilter: 'all'
+  locationFilter: 'all',
+  isRefreshing: false
 };
 
 // DOM Elements
@@ -31,9 +32,9 @@ async function loadAllData() {
       state.profile = JSON.parse(localProfile);
     } else {
       const [resJobs, resApplied, resProfile] = await Promise.all([
-        fetch('../data/jobs.json').then(r => r.json()).catch(() => []),
-        fetch('../data/applied.json').then(r => r.json()).catch(() => []),
-        fetch('../data/profile.json').then(r => r.json()).catch(() => ({}))
+        fetch('/data/jobs.json').then(r => r.json()).catch(() => []),
+        fetch('/data/applied.json').then(r => r.json()).catch(() => []),
+        fetch('/data/profile.json').then(r => r.json()).catch(() => ({}))
       ]);
       state.jobs = resJobs;
       state.applied = resApplied;
@@ -64,8 +65,8 @@ function initNavigation() {
       desc: 'Ofertas encontradas en LinkedIn basadas en tu perfil y postulaciones de los últimos 6 meses.'
     },
     'tab-applied': {
-      title: 'Mis Postulaciones Realizadas',
-      desc: 'Seguimiento de tu historial de postulaciones, entrevistas y ofertas recibidas.'
+      title: 'Mis Postulaciones Realizadas (Referencia para IA)',
+      desc: 'Tus empleos postulados sirven de semilla para buscar vacantes similares en LinkedIn.'
     },
     'tab-analytics': {
       title: 'Aprendizaje de IA (Últimos 6 Meses)',
@@ -73,7 +74,7 @@ function initNavigation() {
     },
     'tab-profile': {
       title: 'Perfil de LinkedIn y Filtros de Búsqueda',
-      desc: 'Configura tus datos de LinkedIn, roles objetivo y palabras clave para GitHub Actions.'
+      desc: 'Configura tus datos de LinkedIn, roles objetivo y palabras clave para las búsquedas.'
     }
   };
 
@@ -122,13 +123,24 @@ function initEventListeners() {
     renderAvailableJobs();
   });
 
+  // Botón de Refrescar Búsqueda en Vivo
+  const btnRefresh = document.getElementById('btn-refresh-jobs');
+  if (btnRefresh) {
+    btnRefresh.addEventListener('click', handleRefreshJobs);
+  }
+
   document.getElementById('btn-export-data').addEventListener('click', exportDataJSON);
 
   const modal = document.getElementById('modal-add-applied');
-  document.getElementById('btn-open-add-applied').addEventListener('click', () => {
+  const openModal = () => {
     document.getElementById('modal-date').value = new Date().toISOString().split('T')[0];
     modal.classList.add('active');
-  });
+  };
+
+  document.getElementById('btn-open-add-applied').addEventListener('click', openModal);
+  const btnOpen2 = document.getElementById('btn-open-add-applied-2');
+  if (btnOpen2) btnOpen2.addEventListener('click', openModal);
+
   document.getElementById('btn-close-modal').addEventListener('click', () => {
     modal.classList.remove('active');
   });
@@ -138,6 +150,50 @@ function initEventListeners() {
 
   document.getElementById('add-applied-form').addEventListener('submit', handleAddApplication);
   document.getElementById('profile-form').addEventListener('submit', handleProfileSave);
+}
+
+// Refrescar vacantes comunicándose con server.py
+async function handleRefreshJobs() {
+  if (state.isRefreshing) return;
+  state.isRefreshing = true;
+
+  const btn = document.getElementById('btn-refresh-jobs');
+  const icon = document.getElementById('refresh-icon');
+  
+  btn.disabled = true;
+  icon.className = 'ri-loader-4-line spin';
+  btn.innerHTML = `<i class="ri-loader-4-line spin"></i> Buscando en LinkedIn...`;
+
+  try {
+    const response = await fetch('/api/refresh', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        applied: state.applied,
+        profile: state.profile
+      })
+    });
+
+    if (response.ok) {
+      const data = await response.json();
+      if (data.jobs) {
+        state.jobs = data.jobs;
+        saveToLocalStorage();
+        renderAll();
+        alert(`¡Búsqueda completada! Se procesaron ${state.jobs.length} empleos en total con tu perfil de LinkedIn.`);
+      }
+    } else {
+      // Fallback si el servidor no está escuchando peticiones POST
+      alert('Se intentó refrescar la búsqueda. Si estás ejecutando en servidor local, asegúrate de correr python3 server.py.');
+    }
+  } catch (err) {
+    console.warn('Backend local no detectado o respuesta estática:', err);
+    alert('Búsqueda ejecutada en frontend. Para búsquedas en tiempo real en LinkedIn, ejecuta: python3 server.py en la terminal.');
+  } finally {
+    state.isRefreshing = false;
+    btn.disabled = false;
+    btn.innerHTML = `<i class="ri-refresh-line" id="refresh-icon"></i> Buscar Más Vacantes con IA`;
+  }
 }
 
 // RENDERERS
@@ -166,21 +222,15 @@ function renderAvailableJobs() {
   container.innerHTML = '';
 
   let filtered = state.jobs.filter(job => {
-    // Excluir si ya fue postulado
     const alreadyApplied = state.applied.some(a => a.url === job.url || a.title === job.title);
     if (alreadyApplied) return false;
 
-    // Filter by match score
     if (job.match_score < state.minScoreFilter) return false;
-
-    // Filter by recent 6 month match
     if (state.recentFilter === 'recent_match' && !job.is_recent_match) return false;
 
-    // Filter by location
     if (state.locationFilter === 'remoto' && !job.location.toLowerCase().includes('remot')) return false;
     if (state.locationFilter === 'chile' && !job.location.toLowerCase().includes('chile')) return false;
 
-    // Filter by search query
     if (state.searchQuery) {
       const q = state.searchQuery;
       const text = `${job.title} ${job.company} ${job.location} ${(job.skills || []).join(' ')}`.toLowerCase();
@@ -190,13 +240,17 @@ function renderAvailableJobs() {
     return true;
   });
 
-  document.getElementById('displayed-jobs-count').textContent = filtered.length;
+  const countElem = document.getElementById('displayed-jobs-count');
+  if (countElem) countElem.textContent = filtered.length;
 
   if (filtered.length === 0) {
     container.innerHTML = `
       <div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">
         <i class="ri-inbox-line" style="font-size: 48px; display: block; margin-bottom: 12px;"></i>
         <p>No se encontraron empleos que coincidan con los filtros seleccionados.</p>
+        <button class="btn btn-primary mt-3" onclick="handleRefreshJobs()">
+          <i class="ri-refresh-line"></i> Buscar Nuevas Vacantes en LinkedIn
+        </button>
       </div>
     `;
     return;
@@ -274,7 +328,7 @@ function markAsApplied(jobId) {
   saveToLocalStorage();
   renderAll();
 
-  alert(`¡Postulación registrada para "${job.title}"! El modelo de IA se actualizará en las siguientes búsquedas.`);
+  alert(`¡Postulación registrada para "${job.title}"! Esta postulación servirá como referencia para las próximas búsquedas en LinkedIn.`);
 }
 
 function renderAppliedJobs() {
@@ -284,7 +338,7 @@ function renderAppliedJobs() {
   if (state.applied.length === 0) {
     container.innerHTML = `
       <div style="text-align: center; padding: 40px; color: var(--text-muted);">
-        <p>Aún no has registrado postulaciones.</p>
+        <p>Aún no has registrado postulaciones. ¡Agrega una para que la IA la use como referencia!</p>
       </div>
     `;
     return;
@@ -296,7 +350,7 @@ function renderAppliedJobs() {
     item.innerHTML = `
       <div class="applied-info">
         <h4>${escapeHtml(app.title)}</h4>
-        <p><strong>${escapeHtml(app.company)}</strong> • ${escapeHtml(app.location)} • Postulado: ${app.applied_date}</p>
+        <p><strong>${escapeHtml(app.company)}</strong> • ${escapeHtml(app.location)} • Postulado el: ${app.applied_date}</p>
         ${app.notes ? `<p style="margin-top: 6px; font-style: italic; color: var(--accent-cyan);"><i class="ri-sticky-note-line"></i> ${escapeHtml(app.notes)}</p>` : ''}
       </div>
       <div style="display: flex; align-items: center; gap: 12px;">
@@ -349,7 +403,6 @@ function renderAnalytics() {
     });
   }
 
-  // LinkedIn box
   const linkedinBox = document.getElementById('linkedin-profile-box');
   const url = state.profile.linkedin_profile_url || 'No configurada';
   const headline = state.profile.linkedin_headline || 'Sin titular especificado';
