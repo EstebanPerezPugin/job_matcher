@@ -140,11 +140,19 @@
           </div>
         </div>
 
-        <div class="applied-list-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
-          <h3 style="font-family: var(--font-heading); font-size: 18px;">Historial de Postulaciones (Usadas como referencia para la IA)</h3>
-          <button class="btn btn-secondary" id="btn-open-add-applied-2" style="font-size: 13px;">
-            <i class="ri-add-line"></i> Agregar Nueva Postulación
-          </button>
+        <div class="applied-list-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; flex-wrap: wrap; gap: 12px;">
+          <div>
+            <h3 style="font-family: var(--font-heading); font-size: 18px;">Historial de Postulaciones</h3>
+            <p style="font-size: 13px; color: var(--text-muted); margin-top: 4px;">Sincronizadas desde LinkedIn Jobs Tracker — usadas como referencia por la IA</p>
+          </div>
+          <div style="display: flex; gap: 10px;">
+            <button class="btn btn-primary" id="btn-sync-linkedin" style="font-size: 13px;">
+              <i class="ri-linkedin-box-fill" id="sync-icon"></i> Sincronizar desde LinkedIn
+            </button>
+            <button class="btn btn-secondary" id="btn-open-add-applied-2" style="font-size: 13px;">
+              <i class="ri-add-line"></i> Agregar Manual
+            </button>
+          </div>
         </div>
 
         <div class="applied-list" id="applied-jobs-container">

@@ -123,6 +123,12 @@ function initEventListeners() {
     renderAvailableJobs();
   });
 
+  // Botón de Sincronización con LinkedIn Jobs Tracker
+  const btnSync = document.getElementById('btn-sync-linkedin');
+  if (btnSync) {
+    btnSync.addEventListener('click', handleSyncLinkedIn);
+  }
+
   // Botón de Refrescar Búsqueda en Vivo
   const btnRefresh = document.getElementById('btn-refresh-jobs');
   if (btnRefresh) {
@@ -150,6 +156,44 @@ function initEventListeners() {
 
   document.getElementById('add-applied-form').addEventListener('submit', handleAddApplication);
   document.getElementById('profile-form').addEventListener('submit', handleProfileSave);
+}
+
+// Sincronizar postulaciones reales desde LinkedIn Jobs Tracker
+async function handleSyncLinkedIn() {
+  const btn = document.getElementById('btn-sync-linkedin');
+  const icon = document.getElementById('sync-icon');
+
+  btn.disabled = true;
+  icon.className = 'ri-loader-4-line spin';
+  btn.innerHTML = `<i class="ri-loader-4-line spin"></i> Sincronizando con LinkedIn...`;
+
+  try {
+    const response = await fetch('/api/sync-applied', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ profile: state.profile })
+    });
+
+    if (response.ok) {
+      const data = await response.json();
+      if (data.applied && data.applied.length > 0) {
+        state.applied = data.applied;
+        saveToLocalStorage();
+        renderAll();
+        alert(`✅ Sincronización completada. ${data.applied.length} postulaciones importadas desde LinkedIn Jobs Tracker.`);
+      } else {
+        alert(`⚠️ ${data.message || 'No se encontraron postulaciones. Verifica que tu cookie li_at esté vigente en el archivo .env'}`);
+      }
+    } else {
+      alert('Error en la sincronización. Asegúrate de correr python3 server.py.');
+    }
+  } catch (err) {
+    console.warn('Error de conexión con servidor:', err);
+    alert('No se pudo conectar con el servidor local. Ejecuta: python3 server.py');
+  } finally {
+    btn.disabled = false;
+    btn.innerHTML = `<i class="ri-linkedin-box-fill" id="sync-icon"></i> Sincronizar desde LinkedIn`;
+  }
 }
 
 // Refrescar vacantes comunicándose con server.py
@@ -347,9 +391,15 @@ function renderAppliedJobs() {
   state.applied.forEach(app => {
     const item = document.createElement('div');
     item.className = 'applied-item';
+
+    const isFromLinkedIn = app.source === 'linkedin_tracker';
+    const linkedinBadge = isFromLinkedIn
+      ? `<span style="font-size: 11px; background: rgba(56,189,248,0.15); color: var(--accent-cyan); border: 1px solid rgba(56,189,248,0.3); padding: 2px 8px; border-radius: 10px; margin-left: 8px;"><i class="ri-linkedin-box-fill"></i> LinkedIn</span>`
+      : '';
+
     item.innerHTML = `
       <div class="applied-info">
-        <h4>${escapeHtml(app.title)}</h4>
+        <h4>${escapeHtml(app.title)} ${linkedinBadge}</h4>
         <p><strong>${escapeHtml(app.company)}</strong> • ${escapeHtml(app.location)} • Postulado el: ${app.applied_date}</p>
         ${app.notes ? `<p style="margin-top: 6px; font-style: italic; color: var(--accent-cyan);"><i class="ri-sticky-note-line"></i> ${escapeHtml(app.notes)}</p>` : ''}
       </div>
@@ -360,7 +410,7 @@ function renderAppliedJobs() {
           <option value="Oferta" ${app.status === 'Oferta' ? 'selected' : ''}>Oferta Recibida</option>
           <option value="Rechazado" ${app.status === 'Rechazado' ? 'selected' : ''}>Rechazado</option>
         </select>
-        ${app.url ? `<a href="${app.url}" target="_blank" class="btn btn-secondary" style="padding: 6px 12px;"><i class="ri-link"></i></a>` : ''}
+        ${app.url && app.url !== '#' ? `<a href="${app.url}" target="_blank" class="btn btn-secondary" style="padding: 6px 12px;"><i class="ri-link"></i></a>` : ''}
       </div>
     `;
     container.appendChild(item);
