@@ -366,6 +366,29 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-510166",
+    "title": "Programador Full Stack Senior (Python + React)",
+    "company": "SII Group Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/programador-full-stack-senior-python-%2B-react-at-sii-group-chile-4437849993",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Full Stack Engineer React Python",
+    "description": "Oferta de empleo para Programador Full Stack Senior (Python + React) en SII Group Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 29,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Node.Js",
+      "Similitud del 31% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "linkedin-10819130",
     "title": "Full Stack Developer (Python)",
     "company": "Perform",
@@ -411,6 +434,29 @@
     ],
     "status": "Disponible",
     "notes": "",
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-12191849",
+    "title": "Desarrollador Fullstack Node/React",
+    "company": "Amaris Consulting",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-fullstack-node-react-at-amaris-consulting-4446931595",
+    "posted_date": "Hace 3 minutos",
+    "search_keyword": "Full Stack Engineer (React + Node/Python)",
+    "description": "Oferta de empleo para Desarrollador Fullstack Node/React en Amaris Consulting. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 28,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Node.Js",
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
+    ],
     "is_recent_match": true
   },
   {
@@ -598,6 +644,29 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-4446189",
+    "title": "Full Stack - Filial Blue Express",
+    "company": "COPEC S.A.",
+    "location": "Pudahuel, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/full-stack-filial-blue-express-at-copec-s-a-4433962826",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Full Stack Engineer (React + Node/Python)",
+    "description": "Oferta de empleo para Full Stack - Filial Blue Express en COPEC S.A.. Ubicación: Pudahuel, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 26,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Node.Js",
+      "Similitud del 22% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "linkedin-2778982",
     "title": "Desarrollador Backend",
     "company": "Nisum",
@@ -658,6 +727,50 @@
     "status": "Disponible",
     "notes": "",
     "match_score": 23,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-5776533",
+    "title": "Full-Stack Engineer",
+    "company": "Dynamic Devs",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/full-stack-engineer-at-dynamic-devs-4444790195",
+    "posted_date": "Hace 6 días",
+    "search_keyword": "Full Stack Engineer (React + Node/Python)",
+    "description": "Oferta de empleo para Full-Stack Engineer en Dynamic Devs. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 22,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-15729701",
+    "title": "AI/ML Engineer",
+    "company": "Perform",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415702296",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "AI Machine Learning Engineer",
+    "description": "Oferta de empleo para AI/ML Engineer en Perform. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "PyTorch",
+      "Machine Learning",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
     "match_reasons": [
       "Habilidades coincidentes: Python, Machine Learning"
     ],
@@ -944,6 +1057,50 @@
     "match_score": 10,
     "match_reasons": [
       "Habilidades coincidentes: Python, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-2213891",
+    "title": "Data Scientist (IA)",
+    "company": "Banco BICE",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-scientist-ia-at-banco-bice-4425616812",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "AI Machine Learning Engineer",
+    "description": "Oferta de empleo para Data Scientist (IA) en Banco BICE. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "SQL",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Python"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-16557640",
+    "title": "Ingeniero de Inteligencia Artificial",
+    "company": "Banco Ripley Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-banco-ripley-chile-4440850012",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "AI Machine Learning Engineer",
+    "description": "Oferta de empleo para Ingeniero de Inteligencia Artificial en Banco Ripley Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis"
     ],
     "is_recent_match": false
   }
