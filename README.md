@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 JobAgent AI - Agente Búsqueda de Empleos & Dashboard HTML
 
 Un agente de inteligencia artificial que se ejecuta automáticamente en **GitHub Actions** para buscar empleos en LinkedIn, aprender de las postulaciones que realizas y recomendar las mejores oportunidades a través de un **Dashboard HTML local ultra moderno**.
@@ -81,3 +82,7 @@ Agente/
 ├── requirements.txt             # Dependencias Python
 └── README.md                    # Documentación del proyecto
 ```
+=======
+# job_matcher
+busqueda laboral en linkedin
+>>>>>>> fafaac60d7f2a62ba8c93b5dbadec46fdb23a96c
