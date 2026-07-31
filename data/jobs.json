@@ -16,15 +16,67 @@
       "REST APIs",
       "Liderazgo"
     ],
-    "match_score": 54,
+    "match_score": 55,
     "match_reasons": [
       "Habilidades coincidentes: Python, Fastapi, Docker, Rest Apis",
       "Alineado con tu Titular de LinkedIn",
       "Título en tus roles preferidos",
-      "Similitud del 28% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 31% con tus postulaciones de los últimos 6 meses"
     ],
     "status": "Disponible",
     "notes": "",
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505943-1",
+    "title": "Senior Senior Python Backend Developer Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17855059431",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Senior Python Backend Developer",
+    "description": "Buscamos un apasionado Senior Python Backend Developer para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 53,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Docker, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 60% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505953-1",
+    "title": "Senior Full Stack Engineer React Python Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17855059531",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Full Stack Engineer React Python",
+    "description": "Buscamos un apasionado Full Stack Engineer React Python para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 52,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Docker, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 55% con tus postulaciones de los últimos 6 meses"
+    ],
     "is_recent_match": true
   },
   {
@@ -43,12 +95,64 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 50,
+    "match_score": 51,
     "match_reasons": [
       "Habilidades coincidentes: Python, Fastapi",
       "Alineado con tu Titular de LinkedIn",
       "Título en tus roles preferidos",
-      "Similitud del 32% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 35% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505943-2",
+    "title": "Desarrollador Senior Python Backend Developer & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17855059432",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Senior Python Backend Developer",
+    "description": "Excelente oportunidad para desarrolladores Senior Python Backend Developer. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 51,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, Rest Apis, Aws",
+      "Título en tus roles preferidos",
+      "Similitud del 53% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505953-2",
+    "title": "Desarrollador Full Stack Engineer React Python & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17855059532",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Full Stack Engineer React Python",
+    "description": "Excelente oportunidad para desarrolladores Full Stack Engineer React Python. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 51,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, React, Rest Apis",
+      "Título en tus roles preferidos",
+      "Similitud del 44% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -67,12 +171,12 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 48,
+    "match_score": 49,
     "match_reasons": [
       "Habilidades coincidentes: Python, React",
       "Alineado con tu Titular de LinkedIn",
       "Título en tus roles preferidos",
-      "Similitud del 25% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 29% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -91,12 +195,12 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 48,
+    "match_score": 49,
     "match_reasons": [
       "Habilidades coincidentes: Python, React",
       "Alineado con tu Titular de LinkedIn",
       "Título en tus roles preferidos",
-      "Similitud del 25% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 29% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -116,12 +220,12 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 47,
+    "match_score": 48,
     "match_reasons": [
       "Habilidades coincidentes: Python, Fastapi",
       "Alineado con tu Titular de LinkedIn",
       "Título en tus roles preferidos",
-      "Similitud del 23% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -141,7 +245,7 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 45,
+    "match_score": 46,
     "match_reasons": [
       "Habilidades coincidentes: Git, Rest Apis",
       "Alineado con tu Titular de LinkedIn",
@@ -163,12 +267,12 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 44,
+    "match_score": 45,
     "match_reasons": [
       "Habilidades coincidentes: Python",
       "Alineado con tu Titular de LinkedIn",
       "Título en tus roles preferidos",
-      "Similitud del 23% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -332,13 +436,88 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 42,
+    "match_score": 43,
     "match_reasons": [
       "Habilidades coincidentes: Git, Rest Apis",
       "Alineado con tu Titular de LinkedIn",
       "Título en tus roles preferidos"
     ],
     "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1785505962-1",
+    "title": "Senior Desarrollador Backend Python FastAPI Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17855059621",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Desarrollador Backend Python FastAPI",
+    "description": "Buscamos un apasionado Desarrollador Backend Python FastAPI para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 39,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, React, Docker",
+      "Similitud del 45% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505982-1",
+    "title": "Senior Director de Inteligencia Artificial Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17855059821",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Director de Inteligencia Artificial",
+    "description": "Buscamos un apasionado Director de Inteligencia Artificial para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 39,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Docker, Git",
+      "Similitud del 54% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505972-1",
+    "title": "Senior AI Machine Learning Engineer Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17855059721",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "AI Machine Learning Engineer",
+    "description": "Buscamos un apasionado AI Machine Learning Engineer para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 36,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, React, Docker, Git",
+      "Similitud del 37% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
   },
   {
     "id": "job-102",
@@ -356,13 +535,38 @@
       "Tailwind",
       "REST APIs"
     ],
-    "match_score": 31,
+    "match_score": 33,
     "match_reasons": [
       "Habilidades coincidentes: Python, Postgresql, React, Rest Apis",
-      "Similitud del 30% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 34% con tus postulaciones de los últimos 6 meses"
     ],
     "status": "Disponible",
     "notes": "",
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505962-2",
+    "title": "Desarrollador Desarrollador Backend Python FastAPI & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17855059622",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Desarrollador Backend Python FastAPI",
+    "description": "Excelente oportunidad para desarrolladores Desarrollador Backend Python FastAPI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 32,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, Rest Apis, Aws",
+      "Similitud del 32% con tus postulaciones de los últimos 6 meses"
+    ],
     "is_recent_match": true
   },
   {
@@ -381,12 +585,36 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 29,
+    "match_score": 30,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 31% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 35% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505972-2",
+    "title": "Desarrollador AI Machine Learning Engineer & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17855059722",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "AI Machine Learning Engineer",
+    "description": "Excelente oportunidad para desarrolladores AI Machine Learning Engineer. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 30,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, Rest Apis, Aws"
+    ],
+    "is_recent_match": false
   },
   {
     "id": "linkedin-10819130",
@@ -404,10 +632,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 28,
+    "match_score": 29,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 28% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 32% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -427,13 +655,59 @@
       "GitHub Actions",
       "APIs"
     ],
-    "match_score": 28,
+    "match_score": 29,
     "match_reasons": [
       "Habilidades coincidentes: Python, Git, Github Actions, Machine Learning",
-      "Similitud del 20% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 23% con tus postulaciones de los últimos 6 meses"
     ],
     "status": "Disponible",
     "notes": "",
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-3051101",
+    "title": "Desarrollador Backend Python Semi senior",
+    "company": "Nisum",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-python-semi-senior-at-nisum-4438501870",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Senior Python Backend Developer",
+    "description": "Oferta de empleo para Desarrollador Backend Python Semi senior en Nisum. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 29,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi",
+      "Similitud del 39% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-3051101",
+    "title": "Desarrollador Backend Python Semi senior",
+    "company": "Nisum",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-python-semi-senior-at-nisum-4438501870",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Desarrollador Backend Python FastAPI",
+    "description": "Oferta de empleo para Desarrollador Backend Python Semi senior en Nisum. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 29,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi",
+      "Similitud del 39% con tus postulaciones de los últimos 6 meses"
+    ],
     "is_recent_match": true
   },
   {
@@ -455,7 +729,7 @@
     "match_score": 28,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 29% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -475,10 +749,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 27,
+    "match_score": 28,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -498,33 +772,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 27,
+    "match_score": 28,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
-    ],
-    "is_recent_match": true
-  },
-  {
-    "id": "linkedin-3051101",
-    "title": "Desarrollador Backend Python Semi senior",
-    "company": "Nisum",
-    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
-    "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-python-semi-senior-at-nisum-4438501870",
-    "posted_date": "Hace 3 semanas",
-    "search_keyword": "Senior Python Backend Developer",
-    "description": "Oferta de empleo para Desarrollador Backend Python Semi senior en Nisum. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
-    "skills": [
-      "Python",
-      "FastAPI",
-      "SQL"
-    ],
-    "status": "Disponible",
-    "notes": "",
-    "match_score": 27,
-    "match_reasons": [
-      "Habilidades coincidentes: Python, Fastapi",
-      "Similitud del 35% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -544,10 +795,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 27,
+    "match_score": 28,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 25% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 28% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -567,33 +818,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 27,
+    "match_score": 28,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
-    ],
-    "is_recent_match": true
-  },
-  {
-    "id": "linkedin-3051101",
-    "title": "Desarrollador Backend Python Semi senior",
-    "company": "Nisum",
-    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
-    "url": "https://cl.linkedin.com/jobs/view/desarrollador-backend-python-semi-senior-at-nisum-4438501870",
-    "posted_date": "Hace 3 semanas",
-    "search_keyword": "Desarrollador Backend Python FastAPI",
-    "description": "Oferta de empleo para Desarrollador Backend Python Semi senior en Nisum. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
-    "skills": [
-      "Python",
-      "FastAPI",
-      "SQL"
-    ],
-    "status": "Disponible",
-    "notes": "",
-    "match_score": 27,
-    "match_reasons": [
-      "Habilidades coincidentes: Python, Fastapi",
-      "Similitud del 35% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 27% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -613,10 +841,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 26,
+    "match_score": 27,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 21% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -636,10 +864,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 26,
+    "match_score": 27,
     "match_reasons": [
       "Habilidades coincidentes: Python, Fastapi",
-      "Similitud del 30% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 34% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -659,10 +887,35 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 26,
+    "match_score": 27,
     "match_reasons": [
       "Habilidades coincidentes: Python, React, Node.Js",
-      "Similitud del 22% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785505982-2",
+    "title": "Desarrollador Director de Inteligencia Artificial & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17855059822",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Director de Inteligencia Artificial",
+    "description": "Excelente oportunidad para desarrolladores Director de Inteligencia Artificial. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 26,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Fastapi, Rest Apis, Aws",
+      "Similitud del 53% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -682,10 +935,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 24,
+    "match_score": 25,
     "match_reasons": [
       "Habilidades coincidentes: Python, Fastapi",
-      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 27% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -703,10 +956,10 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 23,
+    "match_score": 25,
     "match_reasons": [
       "Habilidades coincidentes: Python",
-      "Similitud del 30% con tus postulaciones de los últimos 6 meses"
+      "Similitud del 34% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
   },
@@ -728,9 +981,10 @@
     "notes": "",
     "match_score": 23,
     "match_reasons": [
-      "Habilidades coincidentes: Python, Machine Learning"
+      "Habilidades coincidentes: Python, Machine Learning",
+      "Similitud del 21% con tus postulaciones de los últimos 6 meses"
     ],
-    "is_recent_match": false
+    "is_recent_match": true
   },
   {
     "id": "linkedin-5776533",
@@ -748,7 +1002,7 @@
     ],
     "status": "Disponible",
     "notes": "",
-    "match_score": 22,
+    "match_score": 23,
     "match_reasons": [
       "Habilidades coincidentes: Git, Rest Apis"
     ],
@@ -887,6 +1141,52 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-3458105",
+    "title": "FastAPI Developer - Remote Work | REF#298208",
+    "company": "BairesDev",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/fastapi-developer-remote-work-ref%23298208-at-bairesdev-4440860498",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Desarrollador Backend Python FastAPI",
+    "description": "Oferta de empleo para FastAPI Developer - Remote Work | REF#298208 en BairesDev. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 14,
+    "match_reasons": [
+      "Habilidades coincidentes: Fastapi, Git, Rest Apis",
+      "Similitud del 21% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-16557640",
+    "title": "Ingeniero de Inteligencia Artificial",
+    "company": "Banco Ripley Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-banco-ripley-chile-4440850012",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "AI Machine Learning Engineer",
+    "description": "Oferta de empleo para Ingeniero de Inteligencia Artificial en Banco Ripley Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 14,
+    "match_reasons": [
+      "Habilidades coincidentes: Git, Rest Apis",
+      "Similitud del 29% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "linkedin-1272959",
     "title": "Desarrollador Junior Node.js - Trabajo Remoto",
     "company": "BairesDev",
@@ -927,28 +1227,6 @@
     "match_score": 13,
     "match_reasons": [
       "Habilidades coincidentes: Node.Js, Git, Rest Apis"
-    ],
-    "is_recent_match": false
-  },
-  {
-    "id": "linkedin-3458105",
-    "title": "FastAPI Developer - Remote Work | REF#298208",
-    "company": "BairesDev",
-    "location": "Región Metropolitana de Santiago, Chile",
-    "url": "https://cl.linkedin.com/jobs/view/fastapi-developer-remote-work-ref%23298208-at-bairesdev-4440860498",
-    "posted_date": "Hace 1 semana",
-    "search_keyword": "Desarrollador Backend Python FastAPI",
-    "description": "Oferta de empleo para FastAPI Developer - Remote Work | REF#298208 en BairesDev. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
-    "skills": [
-      "REST APIs",
-      "Software Development",
-      "Git"
-    ],
-    "status": "Disponible",
-    "notes": "",
-    "match_score": 13,
-    "match_reasons": [
-      "Habilidades coincidentes: Fastapi, Git, Rest Apis"
     ],
     "is_recent_match": false
   },
@@ -1079,28 +1357,6 @@
     "match_score": 10,
     "match_reasons": [
       "Habilidades coincidentes: Python"
-    ],
-    "is_recent_match": false
-  },
-  {
-    "id": "linkedin-16557640",
-    "title": "Ingeniero de Inteligencia Artificial",
-    "company": "Banco Ripley Chile",
-    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
-    "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-banco-ripley-chile-4440850012",
-    "posted_date": "Hace 2 semanas",
-    "search_keyword": "AI Machine Learning Engineer",
-    "description": "Oferta de empleo para Ingeniero de Inteligencia Artificial en Banco Ripley Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
-    "skills": [
-      "REST APIs",
-      "Software Development",
-      "Git"
-    ],
-    "status": "Disponible",
-    "notes": "",
-    "match_score": 10,
-    "match_reasons": [
-      "Habilidades coincidentes: Git, Rest Apis"
     ],
     "is_recent_match": false
   }

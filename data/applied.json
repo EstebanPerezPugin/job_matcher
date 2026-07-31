@@ -1,15 +1,75 @@
 [
   {
+    "id": "app-manual-1785505903724",
+    "title": "Director de Inteligencia Artificial",
+    "company": "Confidencial Careers",
+    "url": "https://www.linkedin.com/jobs/view/4441804974",
+    "applied_date": "2026-07-30",
+    "status": "Postulado",
+    "notes": "",
+    "location": "No especificada",
+    "skills": [
+      "Director",
+      "de",
+      "Inteligencia",
+      "Artificial"
+    ]
+  },
+  {
+    "id": "app-manual-1785505822018",
+    "title": "Subgerente de Ingeniería de Datos",
+    "company": "Cencosud Scotiabank",
+    "url": "https://www.linkedin.com/jobs/view/4444511825",
+    "applied_date": "2026-07-30",
+    "status": "Postulado",
+    "notes": "",
+    "location": "No especificada",
+    "skills": [
+      "Subgerente",
+      "de",
+      "Ingeniería",
+      "de",
+      "Datos"
+    ]
+  },
+  {
+    "id": "app-manual-1785505743017",
+    "title": "Lider de Gobierno de Datos / Jefe de Proyecto",
+    "company": "ACL",
+    "url": "https://www.linkedin.com/jobs/view/4444191187",
+    "applied_date": "2026-07-30",
+    "status": "Postulado",
+    "notes": "",
+    "location": "No especificada",
+    "skills": [
+      "Lider",
+      "de",
+      "Gobierno",
+      "de",
+      "Datos",
+      "/",
+      "Jefe",
+      "de",
+      "Proyecto"
+    ]
+  },
+  {
     "id": "app-1",
     "title": "Senior Python Backend Developer",
     "company": "TechInnovate Solutions",
     "location": "Santiago, Chile (Remoto)",
     "url": "https://www.linkedin.com/jobs/view/1234567890",
     "applied_date": "2026-07-25",
-    "status": "Entrevista",
+    "status": "Postulado",
     "notes": "Entrevista inicial completada. Enfocado en FastAPI, PostgreSQL y Docker.",
     "description": "Buscamos Senior Python Backend Developer con experiencia en FastAPI, PostgreSQL, Docker y arquitectura de microservicios. Trabajo 100% remoto en Chile.",
-    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "Microservicios"]
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Docker",
+      "Microservicios"
+    ]
   },
   {
     "id": "app-2",
@@ -21,6 +81,13 @@
     "status": "Postulado",
     "notes": "Postulación directa en el portal corporativo.",
     "description": "Buscamos Full Stack Engineer para crear aplicaciones web modernas. Requerido: React, TypeScript, Python o Node.js, CI/CD con GitHub Actions y AWS.",
-    "skills": ["React", "TypeScript", "Python", "Node.js", "GitHub Actions", "AWS"]
+    "skills": [
+      "React",
+      "TypeScript",
+      "Python",
+      "Node.js",
+      "GitHub Actions",
+      "AWS"
+    ]
   }
 ]
