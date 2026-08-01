@@ -1,5 +1,58 @@
 [
   {
+    "id": "job-scraped-1785578519-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17855785191",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1785578519-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17855785192",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-5203029",
     "title": "Subgerente Ingeniería de Datos",
     "company": "Cencosud Scotiabank",
@@ -22,6 +75,52 @@
       "Similitud del 47% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
+  },
+  {
+    "id": "linkedin-12256349",
+    "title": "Head of Data & Analytics",
+    "company": "Global66",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-data-analytics-at-global66-4439581308",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Head of Data & Analytics en Global66. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 32,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-12256349",
+    "title": "Head of Data & Analytics",
+    "company": "Global66",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-data-analytics-at-global66-4439581308",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Head of Data & Analytics en Global66. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 32,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
   },
   {
     "id": "job-101",
@@ -292,6 +391,72 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-13435209",
+    "title": "Subgerente de Data y Governance",
+    "company": "Mallplaza",
+    "location": "Huechuraba, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/subgerente-de-data-y-governance-at-mallplaza-4443541275",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Subgerente de Data y Governance en Mallplaza. Ubicación: Huechuraba, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-9012916",
+    "title": "Lider de Data - Operaciones",
+    "company": "Mallplaza",
+    "location": "Huechuraba, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/lider-de-data-operaciones-at-mallplaza-4444739568",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Lider de Data - Operaciones en Mallplaza. Ubicación: Huechuraba, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-16480608",
+    "title": "AI Solutions Lead",
+    "company": "MetLife Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/ai-solutions-lead-at-metlife-chile-4446179230",
+    "posted_date": "Hace 8 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para AI Solutions Lead en MetLife Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "Machine Learning"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505953-2",
     "title": "Desarrollador Full Stack Engineer React Python & Cloud",
     "company": "InnovaSoft Chile",
@@ -339,6 +504,94 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-16088775",
+    "title": "Data Architect, Enterprise Technology",
+    "company": "Bain & Company",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-architect-enterprise-technology-at-bain-company-4432294837",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Data Architect, Enterprise Technology en Bain & Company. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13093561",
+    "title": "CoE Lead  Gobierno de Datos",
+    "company": "Itaú Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/coe-lead-gobierno-de-datos-at-ita%C3%BA-chile-4437412407",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para CoE Lead  Gobierno de Datos en Itaú Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13093561",
+    "title": "CoE Lead  Gobierno de Datos",
+    "company": "Itaú Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/coe-lead-gobierno-de-datos-at-ita%C3%BA-chile-4437412407",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para CoE Lead  Gobierno de Datos en Itaú Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-12142469",
+    "title": "Data Analytics Manager",
+    "company": "Explora",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/data-analytics-manager-at-explora-4433125737",
+    "posted_date": "Hace 1 mes",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Data Analytics Manager en Explora. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -351,6 +604,28 @@
       "Software Development",
       "REST APIs",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 18,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-5318653",
+    "title": "Subgerente IA y Productos Digitales",
+    "company": "Euro",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/subgerente-ia-y-productos-digitales-at-euro-4445540141",
+    "posted_date": "Hace 5 días",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Subgerente IA y Productos Digitales en Euro. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
@@ -486,6 +761,94 @@
       "Software Development",
       "REST APIs",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-4221197",
+    "title": "Líder Técnico/a de IA",
+    "company": "Hitss Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-de-ia-at-hitss-chile-4440479243",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Líder Técnico/a de IA en Hitss Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-2415021",
+    "title": "Tech Lead",
+    "company": "Banco Falabella",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/tech-lead-at-banco-falabella-4445262041",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Tech Lead en Banco Falabella. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-10210008",
+    "title": "Tech Lead",
+    "company": "Falabella",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/tech-lead-at-falabella-4443965825",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Tech Lead en Falabella. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-4221197",
+    "title": "Líder Técnico/a de IA",
+    "company": "Hitss Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-de-ia-at-hitss-chile-4440479243",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Líder Técnico/a de IA en Hitss Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
@@ -1702,6 +2065,50 @@
       "Software Development",
       "REST APIs",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13793006",
+    "title": "Gerente de IA Aplicada",
+    "company": "Transbank S.A.",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-de-ia-aplicada-at-transbank-4434639241",
+    "posted_date": "Hace 3 días",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Gerente de IA Aplicada en Transbank S.A.. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13793006",
+    "title": "Gerente de IA Aplicada",
+    "company": "Transbank S.A.",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-de-ia-aplicada-at-transbank-4434639241",
+    "posted_date": "Hace 3 días",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Gerente de IA Aplicada en Transbank S.A.. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
