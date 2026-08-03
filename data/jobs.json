@@ -306,6 +306,52 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-5677920",
+    "title": "Jefe/a de Ingeniería y Gobierno de Datos",
+    "company": "Itaú Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-ingenier%C3%ADa-y-gobierno-de-datos-at-ita%C3%BA-chile-4448109804",
+    "posted_date": "Hace 12 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Jefe/a de Ingeniería y Gobierno de Datos en Itaú Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 23,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 31% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-5677920",
+    "title": "Jefe/a de Ingeniería y Gobierno de Datos",
+    "company": "Itaú Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-ingenier%C3%ADa-y-gobierno-de-datos-at-ita%C3%BA-chile-4448109804",
+    "posted_date": "Hace 12 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Jefe/a de Ingeniería y Gobierno de Datos en Itaú Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 23,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 31% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "linkedin-15110609",
     "title": "Subgerente de Arquitectura, Explotación de Datos e Inteligencia Artificial",
     "company": "IT HUNTERS INTERNATIONAL",
