@@ -870,6 +870,50 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-5440455",
+    "title": "Jefe de Proyectos Datos - Sede Central",
+    "company": "INACAP",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-proyectos-datos-sede-central-at-inacap-4448224741",
+    "posted_date": "Hace 15 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Jefe de Proyectos Datos - Sede Central en INACAP. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-5440455",
+    "title": "Jefe de Proyectos Datos - Sede Central",
+    "company": "INACAP",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-proyectos-datos-sede-central-at-inacap-4448224741",
+    "posted_date": "Hace 15 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Jefe de Proyectos Datos - Sede Central en INACAP. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -2405,6 +2449,28 @@
     "posted_date": "Hace 4 días",
     "search_keyword": "Chief Data Officer",
     "description": "Oferta de empleo para Arquitecto(a) de Datos en Novandino Litio. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-15887984",
+    "title": "Ingeniero de Gestión de Datos",
+    "company": "Colbun S.A",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/ingeniero-de-gesti%C3%B3n-de-datos-at-colbun-s-a-4448604856",
+    "posted_date": "Hace 14 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Ingeniero de Gestión de Datos en Colbun S.A. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
     "skills": [
       "Git",
       "REST APIs",
