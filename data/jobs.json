@@ -108,6 +108,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1786012918-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17860129181",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -191,6 +218,32 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17857910932",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1786012918-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17860129182",
     "posted_date": "Hace 2 horas",
     "search_keyword": "CDO",
     "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
@@ -547,6 +600,74 @@
     "match_score": 21,
     "match_reasons": [
       "Habilidades coincidentes: Python, Sql, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-8411129",
+    "title": "Head of Architecture and AI Business Transformation (English, Spanish)",
+    "company": "Google",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-architecture-and-ai-business-transformation-english-spanish-at-google-4448573092",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Head of Architecture and AI Business Transformation (English, Spanish) en Google. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "PyTorch",
+      "Machine Learning",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning, English"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-4877664",
+    "title": "Data & AI Engineer",
+    "company": "Grenergy",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-ai-engineer-at-grenergy-4446679159",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Data & AI Engineer en Grenergy. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "Python",
+      "PyTorch",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-8411129",
+    "title": "Head of Architecture and AI Business Transformation (English, Spanish)",
+    "company": "Google",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-architecture-and-ai-business-transformation-english-spanish-at-google-4448573092",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Head of Architecture and AI Business Transformation (English, Spanish) en Google. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "PyTorch",
+      "Machine Learning",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning, English"
     ],
     "is_recent_match": false
   },
@@ -1171,6 +1292,28 @@
       "Git",
       "REST APIs",
       "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-6957667",
+    "title": "Líder Técnico IA",
+    "company": "Empresa Confidencial",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ia-at-empresa-confidencial-4449653737",
+    "posted_date": "Hace 18 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Líder Técnico IA en Empresa Confidencial. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
     ],
     "status": "Disponible",
     "notes": "",
