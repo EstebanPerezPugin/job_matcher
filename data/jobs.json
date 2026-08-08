@@ -216,6 +216,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1786178618-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17861786181",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -403,6 +430,32 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17861353632",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1786178618-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17861786182",
     "posted_date": "Hace 2 horas",
     "search_keyword": "CDO",
     "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
