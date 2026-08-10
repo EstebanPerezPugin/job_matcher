@@ -324,6 +324,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1786353870-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17863538701",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -615,6 +642,32 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17863076922",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1786353870-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17863538702",
     "posted_date": "Hace 2 horas",
     "search_keyword": "CDO",
     "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
@@ -1039,6 +1092,78 @@
     "match_score": 21,
     "match_reasons": [
       "Habilidades coincidentes: Python, Machine Learning, English"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-9460762",
+    "title": "Data & AI Architecture Lead",
+    "company": "Accenture Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-ai-architecture-lead-at-accenture-chile-4451110353",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Data & AI Architecture Lead en Accenture Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-9460762",
+    "title": "Data & AI Architecture Lead",
+    "company": "Accenture Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-ai-architecture-lead-at-accenture-chile-4451110353",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Data & AI Architecture Lead en Accenture Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-9460762",
+    "title": "Data & AI Architecture Lead",
+    "company": "Accenture Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-ai-architecture-lead-at-accenture-chile-4451110353",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Data & AI Architecture Lead en Accenture Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Machine Learning"
     ],
     "is_recent_match": false
   },
