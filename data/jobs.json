@@ -513,6 +513,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1786653935-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17866539351",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -986,6 +1013,32 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17866124852",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1786653935-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17866539352",
     "posted_date": "Hace 2 horas",
     "search_keyword": "CDO",
     "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
@@ -1486,6 +1539,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-6478825",
+    "title": "Gerente de Innovación (Accelerated Digitalization & Data Analytics).",
+    "company": "DHL Supply Chain",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-de-innovaci%C3%B3n-accelerated-digitalization-data-analytics-at-dhl-supply-chain-4454310415",
+    "posted_date": "Hace 24 minutos",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Gerente de Innovación (Accelerated Digitalization & Data Analytics). en DHL Supply Chain. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505953-1",
     "title": "Senior Full Stack Engineer React Python Specialist",
     "company": "Tech Global Corp",
@@ -1871,6 +1946,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-11672516",
+    "title": "Data Governance Specialist",
+    "company": "Ultranav",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-governance-specialist-at-ultranav-4453363473",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Data Governance Specialist en Ultranav. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -2226,6 +2323,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-14308125",
+    "title": "Jefe/a de Explotación Analítica",
+    "company": "Banco Bci",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-explotaci%C3%B3n-anal%C3%ADtica-at-banco-bci-4452326181",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe/a de Explotación Analítica en Banco Bci. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
@@ -2274,6 +2393,28 @@
     "status": "Disponible",
     "notes": "",
     "is_recent_match": true
+  },
+  {
+    "id": "linkedin-4949741",
+    "title": "Tech Lead IA GEN",
+    "company": "Empresa Confidencial",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/tech-lead-ia-gen-at-empresa-confidencial-4452014915",
+    "posted_date": "Hace 2 días",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Tech Lead IA GEN en Empresa Confidencial. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
   },
   {
     "id": "job-scraped-1785505962-2",
@@ -3528,5 +3669,50 @@
       "Habilidades coincidentes: Git"
     ],
     "is_recent_match": false
+  },
+  {
+    "id": "linkedin-7395548",
+    "title": "Arquitecto de Datos",
+    "company": "BICE VIDA",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/arquitecto-de-datos-at-bice-vida-4450971594",
+    "posted_date": "Hace 4 semanas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Arquitecto de Datos en BICE VIDA. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-15210413",
+    "title": "Expert Senior Manager, AI Engineering",
+    "company": "Bain & Company",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/expert-senior-manager-ai-engineering-at-bain-company-4422407325",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Expert Senior Manager, AI Engineering en Bain & Company. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning",
+      "Similitud del 21% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
   }
 ]
