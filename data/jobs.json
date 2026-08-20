@@ -3195,6 +3195,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-9451340",
+    "title": "Jefe Mis Riesgo",
+    "company": "Banco Ripley Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-mis-riesgo-at-banco-ripley-chile-4454560994",
+    "posted_date": "Hace 5 días",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe Mis Riesgo en Banco Ripley Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
