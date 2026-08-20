@@ -837,6 +837,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1787257810-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17872578101",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -1622,6 +1649,32 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17871287542",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1787257810-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17872578102",
     "posted_date": "Hace 2 horas",
     "search_keyword": "CDO",
     "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
@@ -2750,6 +2803,75 @@
       "Habilidades coincidentes: Python, Sql"
     ],
     "is_recent_match": false
+  },
+  {
+    "id": "linkedin-5790812",
+    "title": "Jefe de Datos y Analítica",
+    "company": "IT HUNTERS INTERNATIONAL",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-datos-y-anal%C3%ADtica-at-it-hunter-4455689871",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Jefe de Datos y Analítica en IT HUNTERS INTERNATIONAL. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 20% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-5790812",
+    "title": "Jefe de Datos y Analítica",
+    "company": "IT HUNTERS INTERNATIONAL",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-datos-y-anal%C3%ADtica-at-it-hunter-4455689871",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe de Datos y Analítica en IT HUNTERS INTERNATIONAL. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 20% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-5790812",
+    "title": "Jefe de Datos y Analítica",
+    "company": "IT HUNTERS INTERNATIONAL",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-datos-y-anal%C3%ADtica-at-it-hunter-4455689871",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Jefe de Datos y Analítica en IT HUNTERS INTERNATIONAL. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 20% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
   },
   {
     "id": "linkedin-6246126",
