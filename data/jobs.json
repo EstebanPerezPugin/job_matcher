@@ -3339,6 +3339,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-1381516",
+    "title": "Head of Marketing",
+    "company": "Koywe",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-marketing-at-koywe-4456739972",
+    "posted_date": "Hace 15 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Head of Marketing en Koywe. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
@@ -3423,6 +3445,28 @@
       "REST APIs",
       "Software Development",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-8874192",
+    "title": "Médico Jefe de Urgencia - RedSalud Santiago",
+    "company": "RedSalud CCHC",
+    "location": "Estación Central, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/m%C3%A9dico-jefe-de-urgencia-redsalud-santiago-at-redsalud-cchc-4456773899",
+    "posted_date": "Hace 14 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Médico Jefe de Urgencia - RedSalud Santiago en RedSalud CCHC. Ubicación: Estación Central, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
