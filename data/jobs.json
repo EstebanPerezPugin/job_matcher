@@ -2980,6 +2980,94 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-3237271",
+    "title": "Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/data-team-lead-at-grupo-falabella-4457383957",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Data Team Lead en Grupo Falabella. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-12464144",
+    "title": "Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-team-lead-at-grupo-falabella-4457360305",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Data Team Lead en Grupo Falabella. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-12464144",
+    "title": "Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-team-lead-at-grupo-falabella-4457360305",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Data Team Lead en Grupo Falabella. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-12464144",
+    "title": "Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-team-lead-at-grupo-falabella-4457360305",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Data Team Lead en Grupo Falabella. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
