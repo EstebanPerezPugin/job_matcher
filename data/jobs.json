@@ -2530,6 +2530,52 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-11469827",
+    "title": "Jefe/a de Inteligencia Artificial y Analítica Avanzada",
+    "company": "Empresas Carozzi S.A.",
+    "location": "San Bernardo, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-inteligencia-artificial-y-anal%C3%ADtica-avanzada-at-empresas-carozzi-s-a-4458095738",
+    "posted_date": "Hace 5 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Jefe/a de Inteligencia Artificial y Analítica Avanzada en Empresas Carozzi S.A.. Ubicación: San Bernardo, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 22,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 27% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-11469827",
+    "title": "Jefe/a de Inteligencia Artificial y Analítica Avanzada",
+    "company": "Empresas Carozzi S.A.",
+    "location": "San Bernardo, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-inteligencia-artificial-y-anal%C3%ADtica-avanzada-at-empresas-carozzi-s-a-4458095738",
+    "posted_date": "Hace 5 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Jefe/a de Inteligencia Artificial y Analítica Avanzada en Empresas Carozzi S.A.. Ubicación: San Bernardo, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 22,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 27% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785505943-1",
     "title": "Senior Senior Python Backend Developer Specialist",
     "company": "Tech Global Corp",
@@ -3533,6 +3579,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-3810000",
+    "title": "Chief Technology Officer (CTO) AI-First",
+    "company": "WHO&Co.",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/chief-technology-officer-cto-ai-first-at-who-co-4460395451",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Chief Technology Officer (CTO) AI-First en WHO&Co.. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -4053,6 +4121,28 @@
     "skills": [
       "Git",
       "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-3638763",
+    "title": "Líder de CRM",
+    "company": "Copec Flux",
+    "location": "Huechuraba, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-de-crm-at-copec-flux-4457294893",
+    "posted_date": "Hace 2 días",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Líder de CRM en Copec Flux. Ubicación: Huechuraba, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
       "Software Development"
     ],
     "status": "Disponible",
