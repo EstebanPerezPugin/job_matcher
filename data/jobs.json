@@ -1215,6 +1215,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1788301614-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17883016141",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -2385,6 +2412,32 @@
     "is_recent_match": false
   },
   {
+    "id": "job-scraped-1788301614-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17883016142",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-5203029",
     "title": "Subgerente Ingeniería de Datos",
     "company": "Cencosud Scotiabank",
@@ -2721,6 +2774,30 @@
       "Título en tus roles preferidos"
     ],
     "is_recent_match": false
+  },
+  {
+    "id": "linkedin-7587298",
+    "title": "Jefe de Transformación Digital e Inteligencia Artificial",
+    "company": "ME ELECMETAL",
+    "location": "Provincia de Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-transformaci%C3%B3n-digital-e-inteligencia-artificial-at-me-elecmetal-4459543334",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Jefe de Transformación Digital e Inteligencia Artificial en ME ELECMETAL. Ubicación: Provincia de Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 32,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Similitud del 27% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
   },
   {
     "id": "job-101",
@@ -3346,6 +3423,28 @@
       "Data Analysis",
       "Python",
       "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13120814",
+    "title": "Jefe de Data - Operaciones",
+    "company": "Mallplaza",
+    "location": "Huechuraba, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-data-operaciones-at-mallplaza-4462010952",
+    "posted_date": "Hace 3 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe de Data - Operaciones en Mallplaza. Ubicación: Huechuraba, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "SQL",
+      "Python"
     ],
     "status": "Disponible",
     "notes": "",
