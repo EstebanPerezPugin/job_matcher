@@ -2964,6 +2964,29 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-15481952",
+    "title": "Senior Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/senior-data-team-lead-at-grupo-falabella-4461799674",
+    "posted_date": "Hace 18 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Senior Data Team Lead en Grupo Falabella. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 22,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Similitud del 21% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785505943-1",
     "title": "Senior Senior Python Backend Developer Specialist",
     "company": "Tech Global Corp",
@@ -4630,6 +4653,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-1275986",
+    "title": "Head of Growth Marketing",
+    "company": "The Wild Foods",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-growth-marketing-at-the-wild-foods-4461214522",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Head of Growth Marketing en The Wild Foods. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
@@ -4732,6 +4777,28 @@
     "posted_date": "Hace 14 horas",
     "search_keyword": "CDO",
     "description": "Oferta de empleo para Médico Jefe de Urgencia - RedSalud Santiago en RedSalud CCHC. Ubicación: Estación Central, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-5279285",
+    "title": "Chief Information Security Officer (CISO)",
+    "company": "Konecta",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/chief-information-security-officer-ciso-at-konecta-4459260120",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Chief Information Security Officer (CISO) en Konecta. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
     "skills": [
       "REST APIs",
       "Git",
