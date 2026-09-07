@@ -1350,6 +1350,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1788789820-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17887898201",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -2629,6 +2656,32 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17886454622",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1788789820-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17887898202",
     "posted_date": "Hace 2 horas",
     "search_keyword": "CDO",
     "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
@@ -4290,6 +4343,50 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-13178166",
+    "title": "Lead Data Governance & Data Management",
+    "company": "Itaú Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/lead-data-governance-data-management-at-ita%C3%BA-chile-4463767697",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Lead Data Governance & Data Management en Itaú Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13178166",
+    "title": "Lead Data Governance & Data Management",
+    "company": "Itaú Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/lead-data-governance-data-management-at-ita%C3%BA-chile-4463767697",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Lead Data Governance & Data Management en Itaú Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -4920,6 +5017,28 @@
     "skills": [
       "REST APIs",
       "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13357551",
+    "title": "Líder Estratégico de IA",
+    "company": "Altia",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-estrat%C3%A9gico-de-ia-at-altia-4464314928",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Líder Estratégico de IA en Altia. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
       "Software Development"
     ],
     "status": "Disponible",
