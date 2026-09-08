@@ -5178,6 +5178,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-8733778",
+    "title": "Jefe(a) de Analítica - Casa Central",
+    "company": "Duoc UC",
+    "location": "Providencia, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-anal%C3%ADtica-casa-central-at-duoc-uc-4464354658",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe(a) de Analítica - Casa Central en Duoc UC. Ubicación: Providencia, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
@@ -6803,6 +6825,28 @@
       "Software Development",
       "Git",
       "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-839666",
+    "title": "Information Security Officer Virtual (vCISO)",
+    "company": "DXC Technology",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/information-security-officer-virtual-vciso-at-dxc-technology-4463565429",
+    "posted_date": "Hace 28 minutos",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Information Security Officer Virtual (vCISO) en DXC Technology. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
     ],
     "status": "Disponible",
     "notes": "",
