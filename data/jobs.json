@@ -4619,6 +4619,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-11217919",
+    "title": "Tech Lead AI Cloud",
+    "company": "NeuralWorks",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/tech-lead-ai-cloud-at-neuralworks-4454483136",
+    "posted_date": "Hace 3 semanas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Tech Lead AI Cloud en NeuralWorks. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -5293,6 +5315,50 @@
     "skills": [
       "Software Development",
       "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-12120617",
+    "title": "Jefe/a de Loyalty",
+    "company": "COPEC S.A.",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-loyalty-at-copec-s-a-4463043402",
+    "posted_date": "Hace 9 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Jefe/a de Loyalty en COPEC S.A.. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-11088350",
+    "title": "Head of Marketing & Growth",
+    "company": "WHO&Co.",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-marketing-growth-at-who-co-4465090549",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Head of Marketing & Growth en WHO&Co.. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
       "Git"
     ],
     "status": "Disponible",
