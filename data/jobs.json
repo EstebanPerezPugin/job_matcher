@@ -4050,6 +4050,30 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-9387632",
+    "title": "Cloud Solution Architect Manager- Cloud & AI Data",
+    "company": "Microsoft",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/cloud-solution-architect-manager-cloud-ai-data-at-microsoft-4463334985",
+    "posted_date": "Hace 6 días",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Cloud Solution Architect Manager- Cloud & AI Data en Microsoft. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "SQL",
+      "Python",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505953-2",
     "title": "Desarrollador Full Stack Engineer React Python & Cloud",
     "company": "InnovaSoft Chile",
