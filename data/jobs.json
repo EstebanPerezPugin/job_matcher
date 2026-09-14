@@ -5651,6 +5651,50 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-12242272",
+    "title": "Head of Business Intelligence, Paris",
+    "company": "Cencosud",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-business-intelligence-paris-at-cencosud-4467276699",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Head of Business Intelligence, Paris en Cencosud. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-12242272",
+    "title": "Head of Business Intelligence, Paris",
+    "company": "Cencosud",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-business-intelligence-paris-at-cencosud-4467276699",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Head of Business Intelligence, Paris en Cencosud. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505962-2",
     "title": "Desarrollador Desarrollador Backend Python FastAPI & Cloud",
     "company": "InnovaSoft Chile",
@@ -7160,6 +7204,28 @@
       "Software Development",
       "REST APIs",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-6194796",
+    "title": "Director Fundación Automóvil Club de Chile",
+    "company": "HeyClue",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/director-fundaci%C3%B3n-autom%C3%B3vil-club-de-chile-at-heyclue-4467276109",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Director Fundación Automóvil Club de Chile en HeyClue. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
