@@ -4828,6 +4828,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-10884330",
+    "title": "Subgerente de Gestión y Analítica de Negocios",
+    "company": "People4ward",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/subgerente-de-gesti%C3%B3n-y-anal%C3%ADtica-de-negocios-at-people4ward-4429466532",
+    "posted_date": "Hace 2 meses",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Subgerente de Gestión y Analítica de Negocios en People4ward. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 18,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505962-1",
     "title": "Senior Desarrollador Backend Python FastAPI Specialist",
     "company": "Tech Global Corp",
