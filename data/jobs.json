@@ -5695,6 +5695,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-4668796",
+    "title": "Chief Technology Officer (CTO)",
+    "company": "JAG Cybersecurity",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/chief-technology-officer-cto-at-jag-cybersecurity-4465988490",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Chief Technology Officer (CTO) en JAG Cybersecurity. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505962-2",
     "title": "Desarrollador Desarrollador Backend Python FastAPI & Cloud",
     "company": "InnovaSoft Chile",
