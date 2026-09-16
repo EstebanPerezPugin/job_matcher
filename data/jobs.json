@@ -5513,6 +5513,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-10186649",
+    "title": "Jefe/a de Personalización y CRM",
+    "company": "FEMSA Salud Chile",
+    "location": "Huechuraba, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-personalizaci%C3%B3n-y-crm-at-femsa-salud-chile-4468296052",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Jefe/a de Personalización y CRM en FEMSA Salud Chile. Ubicación: Huechuraba, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
