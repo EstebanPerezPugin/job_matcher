@@ -3873,6 +3873,30 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-1917242",
+    "title": "Head of AI & Data",
+    "company": "Barranco Paredes - Human Resources Consultant | Executive Search LATAM",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-ai-data-at-barranco-paredes-human-resources-consultant-executive-search-latam-4468591575",
+    "posted_date": "Hace 33 minutos",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Head of AI & Data en Barranco Paredes - Human Resources Consultant | Executive Search LATAM. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "SQL",
+      "Machine Learning",
+      "Python",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505953-1",
     "title": "Senior Full Stack Engineer React Python Specialist",
     "company": "Tech Global Corp",
