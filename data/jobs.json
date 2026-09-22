@@ -3897,6 +3897,29 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-15116610",
+    "title": "JEFE DE ESTRATEGIA, GOBIERNO Y VALOR DE DATOS",
+    "company": "EFECTIVIDAD360 | HR Consulting | Headhunting | Employability Consulting & Coaching | Assessment Test",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-estrategia-gobierno-y-valor-de-datos-at-efectividad360-hr-consulting-headhunting-employability-consulting-coaching-assessment-test-4468929558",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para JEFE DE ESTRATEGIA, GOBIERNO Y VALOR DE DATOS en EFECTIVIDAD360 | HR Consulting | Headhunting | Employability Consulting & Coaching | Assessment Test. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785505953-1",
     "title": "Senior Full Stack Engineer React Python Specialist",
     "company": "Tech Global Corp",
@@ -5600,6 +5623,28 @@
       "Software Development",
       "REST APIs",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-13697692",
+    "title": "Jefe Customer Intelligence",
+    "company": "Verisure",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-customer-intelligence-at-verisure-4468912810",
+    "posted_date": "Hace 5 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe Customer Intelligence en Verisure. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
