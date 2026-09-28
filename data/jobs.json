@@ -5859,6 +5859,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-14596825",
+    "title": "Head of Growth",
+    "company": "Aloha",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-growth-at-aloha-4464641576",
+    "posted_date": "Hace 2 semanas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Head of Growth en Aloha. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505962-2",
     "title": "Desarrollador Desarrollador Backend Python FastAPI & Cloud",
     "company": "InnovaSoft Chile",
