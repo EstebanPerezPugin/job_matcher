@@ -3451,6 +3451,30 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-14638352",
+    "title": "Líder Técnico AWS: Data & AI",
+    "company": "KPaz",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-aws-data-ai-at-kpaz-4473017319",
+    "posted_date": "Hace 3 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Líder Técnico AWS: Data & AI en KPaz. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "PyTorch",
+      "SQL",
+      "Machine Learning",
+      "Python",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 23,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-15110609",
     "title": "Subgerente de Arquitectura, Explotación de Datos e Inteligencia Artificial",
     "company": "IT HUNTERS INTERNATIONAL",
