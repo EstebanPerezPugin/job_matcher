@@ -4884,6 +4884,29 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-13944555",
+    "title": "Líder Gobierno de Datos",
+    "company": "Empresa Confidencial",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-gobierno-de-datos-at-empresa-confidencial-4473940052",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Líder Gobierno de Datos en Empresa Confidencial. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 20% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
