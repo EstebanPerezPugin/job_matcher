@@ -5702,6 +5702,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-1784931",
+    "title": "Chief Technology Officer",
+    "company": "Ninja Excel",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/chief-technology-officer-at-ninja-excel-4474373424",
+    "posted_date": "Hace 5 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Chief Technology Officer en Ninja Excel. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
