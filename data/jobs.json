@@ -3379,6 +3379,52 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-9208180",
+    "title": "Data Science Tecnical Lead",
+    "company": "Crecer",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-science-tecnical-lead-at-crecer-4475632092",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Data Science Tecnical Lead en Crecer. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 29,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Alineado con tu Titular de LinkedIn"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-9208180",
+    "title": "Data Science Tecnical Lead",
+    "company": "Crecer",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-science-tecnical-lead-at-crecer-4475632092",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Data Science Tecnical Lead en Crecer. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 29,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Alineado con tu Titular de LinkedIn"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-101",
     "title": "Lead Software Engineer - Python & Cloud",
     "company": "Global Tech Ventures",
