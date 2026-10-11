@@ -3069,6 +3069,58 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1791729851-1",
+    "title": "Senior Chief Data Officer Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17917298511",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Chief Data Officer",
+    "description": "Buscamos un apasionado Chief Data Officer para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 37,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 28% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1791729852-1",
+    "title": "Senior Líder Data & AI Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17917298521",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Líder Data & AI",
+    "description": "Buscamos un apasionado Líder Data & AI para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 37,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 28% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785704255-2",
     "title": "Desarrollador Líder Data & AI & Cloud",
     "company": "InnovaSoft Chile",
@@ -3174,6 +3226,56 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17897356282",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Excelente oportunidad para desarrolladores Líder Data & AI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 35,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1791729851-2",
+    "title": "Desarrollador Chief Data Officer & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17917298512",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Excelente oportunidad para desarrolladores Chief Data Officer. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 35,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1791729852-2",
+    "title": "Desarrollador Líder Data & AI & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17917298522",
     "posted_date": "Hace 2 horas",
     "search_keyword": "Líder Data & AI",
     "description": "Excelente oportunidad para desarrolladores Líder Data & AI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
