@@ -2939,6 +2939,58 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1791934716-2",
+    "title": "Desarrollador Subgerente Datos & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17919347162",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Excelente oportunidad para desarrolladores Subgerente Datos. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 41,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos",
+      "Similitud del 36% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1791934716-1",
+    "title": "Senior Subgerente Datos Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17919347161",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Buscamos un apasionado Subgerente Datos para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 38,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 32% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785704255-1",
     "title": "Senior Líder Data & AI Specialist",
     "company": "Tech Global Corp",
@@ -3173,6 +3225,32 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1791934715-1",
+    "title": "Senior Chief Data Officer Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17919347151",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Chief Data Officer",
+    "description": "Buscamos un apasionado Chief Data Officer para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 37,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 28% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785704255-2",
     "title": "Desarrollador Líder Data & AI & Cloud",
     "company": "InnovaSoft Chile",
@@ -3381,6 +3459,31 @@
     "posted_date": "Hace 2 horas",
     "search_keyword": "Líder Data & AI",
     "description": "Excelente oportunidad para desarrolladores Líder Data & AI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 35,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1791934715-2",
+    "title": "Desarrollador Chief Data Officer & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17919347152",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Excelente oportunidad para desarrolladores Chief Data Officer. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
     "skills": [
       "Python",
       "SQL",
