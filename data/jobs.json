@@ -4960,6 +4960,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-844180",
+    "title": "Lead AI Engineer (Python) - Remote Work | REF#305801",
+    "company": "BairesDev",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/lead-ai-engineer-python-remote-work-ref%23305801-at-bairesdev-4479225174",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Lead AI Engineer (Python) - Remote Work | REF#305801 en BairesDev. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "PyTorch"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505953-2",
     "title": "Desarrollador Full Stack Engineer React Python & Cloud",
     "company": "InnovaSoft Chile",
@@ -8399,6 +8421,50 @@
       "REST APIs",
       "Git",
       "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-11367097",
+    "title": "Senior Manager de Modelos",
+    "company": "Scotiabank",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/senior-manager-de-modelos-at-scotiabank-4479152918",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Senior Manager de Modelos en Scotiabank. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-1011644",
+    "title": "Gestor(a) de Información y Datos",
+    "company": "UC CHRISTUS",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/gestor-a-de-informaci%C3%B3n-y-datos-at-uc-christus-4478490102",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Gestor(a) de Información y Datos en UC CHRISTUS. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
     ],
     "status": "Disponible",
     "notes": "",
