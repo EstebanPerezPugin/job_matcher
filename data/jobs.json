@@ -6231,6 +6231,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-5444431",
+    "title": "Jefe Inteligencia de Negocios",
+    "company": "Empresa Confidencial",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-inteligencia-de-negocios-at-empresa-confidencial-4478605938",
+    "posted_date": "Hace 3 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe Inteligencia de Negocios en Empresa Confidencial. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 18,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505962-1",
     "title": "Senior Desarrollador Backend Python FastAPI Specialist",
     "company": "Tech Global Corp",
