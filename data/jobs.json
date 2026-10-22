@@ -7092,6 +7092,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-8830196",
+    "title": "Jefe Customer Intelligence",
+    "company": "Verisure",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-customer-intelligence-at-verisure-4480079182",
+    "posted_date": "Hace 3 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe Customer Intelligence en Verisure. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
@@ -7395,6 +7417,28 @@
     "skills": [
       "Software Development",
       "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-7490841",
+    "title": "Jefe/a CRM - Filial Copec Flux",
+    "company": "COPEC S.A.",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-crm-filial-copec-flux-at-copec-s-a-4480076586",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Jefe/a CRM - Filial Copec Flux en COPEC S.A.. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
       "REST APIs"
     ],
     "status": "Disponible",
