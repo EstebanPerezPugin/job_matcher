@@ -6253,6 +6253,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-2980813",
+    "title": "Jefe Inteligencia de Negocios",
+    "company": "Gamma Recruitment",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-inteligencia-de-negocios-at-gamma-recruitment-4478605938",
+    "posted_date": "Hace 2 días",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe Inteligencia de Negocios en Gamma Recruitment. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 18,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505962-1",
     "title": "Senior Desarrollador Backend Python FastAPI Specialist",
     "company": "Tech Global Corp",
@@ -7307,6 +7329,72 @@
     "skills": [
       "Git",
       "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-15208713",
+    "title": "Jefe de Analytics & Automation Hub",
+    "company": "UNO afp",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-analytics-automation-hub-at-uno-afp-4481362151",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Jefe de Analytics & Automation Hub en UNO afp. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-15208713",
+    "title": "Jefe de Analytics & Automation Hub",
+    "company": "UNO afp",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-analytics-automation-hub-at-uno-afp-4481362151",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Jefe de Analytics & Automation Hub en UNO afp. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-15208713",
+    "title": "Jefe de Analytics & Automation Hub",
+    "company": "UNO afp",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-analytics-automation-hub-at-uno-afp-4481362151",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Jefe de Analytics & Automation Hub en UNO afp. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
       "REST APIs"
     ],
     "status": "Disponible",
