@@ -4505,6 +4505,29 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-3018642",
+    "title": "Databricks Senior Architect / Technical Lead",
+    "company": "Accenture Chile",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/databricks-senior-architect-technical-lead-at-accenture-chile-4459763478",
+    "posted_date": "Hace 1 mes",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Databricks Senior Architect / Technical Lead en Accenture Chile. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 24,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Databricks",
+      "Similitud del 22% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-101",
     "title": "Lead Software Engineer - Python & Cloud",
     "company": "Global Tech Ventures",
