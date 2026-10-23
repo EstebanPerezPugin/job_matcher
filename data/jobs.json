@@ -3824,6 +3824,32 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1792796212-1",
+    "title": "Senior Líder Data & AI Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17927962121",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Líder Data & AI",
+    "description": "Buscamos un apasionado Líder Data & AI para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 37,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 28% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785704255-2",
     "title": "Desarrollador Líder Data & AI & Cloud",
     "company": "InnovaSoft Chile",
@@ -4254,6 +4280,31 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17921903402",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Excelente oportunidad para desarrolladores Líder Data & AI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 35,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1792796212-2",
+    "title": "Desarrollador Líder Data & AI & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17927962122",
     "posted_date": "Hace 2 horas",
     "search_keyword": "Líder Data & AI",
     "description": "Excelente oportunidad para desarrolladores Líder Data & AI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
@@ -7127,6 +7178,50 @@
       "Git",
       "Software Development",
       "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-482733",
+    "title": "Jefe Seccion Fraude",
+    "company": "Banco de Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-seccion-fraude-at-banco-de-chile-4481905705",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe Seccion Fraude en Banco de Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-2443561",
+    "title": "Jefe Sección Fraude.",
+    "company": "Banco de Chile",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-secci%C3%B3n-fraude-at-banco-de-chile-4482876645",
+    "posted_date": "Hace 9 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe Sección Fraude. en Banco de Chile. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Software Development",
+      "Git"
     ],
     "status": "Disponible",
     "notes": "",
