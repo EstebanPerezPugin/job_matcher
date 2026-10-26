@@ -4510,6 +4510,29 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-15545904",
+    "title": "Head of Data & Data Governance",
+    "company": "Ultranav",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-data-data-governance-at-ultranav-4483560000",
+    "posted_date": "Hace 3 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Head of Data & Data Governance en Ultranav. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Python",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 32,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-9208180",
     "title": "Data Science Tecnical Lead",
     "company": "Crecer",
