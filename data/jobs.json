@@ -3174,6 +3174,32 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1793057852-2",
+    "title": "Desarrollador Subgerente Datos & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17930578522",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Excelente oportunidad para desarrolladores Subgerente Datos. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 41,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos",
+      "Similitud del 36% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1791934716-1",
     "title": "Senior Subgerente Datos Specialist",
     "company": "Tech Global Corp",
@@ -3335,6 +3361,32 @@
     "company": "Tech Global Corp",
     "location": "Santiago, Chile (Remoto)",
     "url": "https://www.linkedin.com/jobs/view/17922743971",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Buscamos un apasionado Subgerente Datos para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 38,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 32% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1793057852-1",
+    "title": "Senior Subgerente Datos Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17930578521",
     "posted_date": "Hace 1 día",
     "search_keyword": "Subgerente Datos",
     "description": "Buscamos un apasionado Subgerente Datos para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
