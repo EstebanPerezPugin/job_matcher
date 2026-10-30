@@ -7522,6 +7522,50 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-7769800",
+    "title": "Head de Cobranza",
+    "company": "FEMSA Salud Chile",
+    "location": "Huechuraba, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-de-cobranza-at-femsa-salud-chile-4485335954",
+    "posted_date": "Hace 8 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Head de Cobranza en FEMSA Salud Chile. Ubicación: Huechuraba, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-14801007",
+    "title": "Líder de Datos",
+    "company": "Kabeli Selección",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-de-datos-at-kabeli-selecci%C3%B3n-4485601534",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Líder de Datos en Kabeli Selección. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
