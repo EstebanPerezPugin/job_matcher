@@ -5664,6 +5664,29 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-16282311",
+    "title": "Tech Lead Senior IA",
+    "company": "Itaú Chile",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/tech-lead-senior-ia-at-ita%C3%BA-chile-4485224583",
+    "posted_date": "Hace 2 días",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Tech Lead Senior IA en Itaú Chile. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 20% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785505953-2",
     "title": "Desarrollador Full Stack Engineer React Python & Cloud",
     "company": "InnovaSoft Chile",
@@ -9631,6 +9654,28 @@
       "Software Development",
       "Git",
       "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-10889186",
+    "title": "Manager, Forward Deployed Engineering",
+    "company": "Salesforce",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/manager-forward-deployed-engineering-at-salesforce-4473056209",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Manager, Forward Deployed Engineering en Salesforce. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
     ],
     "status": "Disponible",
     "notes": "",
