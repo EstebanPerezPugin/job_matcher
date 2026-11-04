@@ -5223,6 +5223,29 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-13542029",
+    "title": "Gerente Data Science",
+    "company": "Cencosud",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-data-science-at-cencosud-4485098231",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Gerente Data Science en Cencosud. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 29,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Alineado con tu Titular de LinkedIn"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-3018642",
     "title": "Databricks Senior Architect / Technical Lead",
     "company": "Accenture Chile",
@@ -7041,6 +7064,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-8064869",
+    "title": "Tech Lead Data Engineer",
+    "company": "Cloudbeds",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/tech-lead-data-engineer-at-cloudbeds-4475559444",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Tech Lead Data Engineer en Cloudbeds. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -8444,6 +8489,28 @@
     "posted_date": "Hace 2 horas",
     "search_keyword": "CDO",
     "description": "Oferta de empleo para Jefe/a CRM - Filial Copec Flux en COPEC S.A.. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-2365267",
+    "title": "Chief Technology Officer (CTO)",
+    "company": "Ninja Excel",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/chief-technology-officer-cto-at-ninja-excel-4486893276",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Chief Technology Officer (CTO) en Ninja Excel. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
     "skills": [
       "Git",
       "Software Development",
