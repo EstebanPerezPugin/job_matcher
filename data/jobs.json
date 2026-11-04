@@ -5855,6 +5855,52 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-9862414",
+    "title": "Jefe de Datos y Plataforma de Datos",
+    "company": "IT HUNTERS INTERNATIONAL",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-datos-y-plataforma-de-datos-at-it-hunter-4486300010",
+    "posted_date": "Hace 5 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Jefe de Datos y Plataforma de Datos en IT HUNTERS INTERNATIONAL. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-9862414",
+    "title": "Jefe de Datos y Plataforma de Datos",
+    "company": "IT HUNTERS INTERNATIONAL",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-de-datos-y-plataforma-de-datos-at-it-hunter-4486300010",
+    "posted_date": "Hace 5 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe de Datos y Plataforma de Datos en IT HUNTERS INTERNATIONAL. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 24% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785505953-1",
     "title": "Senior Full Stack Engineer React Python Specialist",
     "company": "Tech Global Corp",
@@ -10163,6 +10209,28 @@
       "Git",
       "Software Development",
       "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-5815736",
+    "title": "Regional Manager, Business Intelligence & Analytics",
+    "company": "Diffupar Chile",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/regional-manager-business-intelligence-analytics-at-diffupar-chile-4484699080",
+    "posted_date": "Hace 8 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Regional Manager, Business Intelligence & Analytics en Diffupar Chile. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "REST APIs",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
