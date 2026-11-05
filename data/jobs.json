@@ -5480,6 +5480,30 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-12461822",
+    "title": "Director, AI, Agents & Data Intelligence (Chile)",
+    "company": "Trolley AI",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/director-ai-agents-data-intelligence-chile-at-trolley-ai-4486557801",
+    "posted_date": "Hace 11 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Director, AI, Agents & Data Intelligence (Chile) en Trolley AI. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "PyTorch",
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 22,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Machine Learning"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505943-1",
     "title": "Senior Senior Python Backend Developer Specialist",
     "company": "Tech Global Corp",
@@ -8197,6 +8221,28 @@
     "posted_date": "Hace 10 horas",
     "search_keyword": "CDO",
     "description": "Oferta de empleo para Head of Consumer Segment, NAM (Chile) en Xe.com. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-8044226",
+    "title": "Chief Product Officer (CPO)",
+    "company": "GeoVictoria",
+    "location": "Providencia, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/chief-product-officer-cpo-at-geovictoria-4486571334",
+    "posted_date": "Hace 12 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Chief Product Officer (CPO) en GeoVictoria. Ubicación: Providencia, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
     "skills": [
       "Git",
       "Software Development",
