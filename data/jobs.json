@@ -5924,6 +5924,28 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-11224222",
+    "title": "Technical Lead AWS | Data & IA",
+    "company": "KPaz",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/technical-lead-aws-data-ia-at-kpaz-4482766627",
+    "posted_date": "Hace 1 semana",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Technical Lead AWS | Data & IA en KPaz. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505953-1",
     "title": "Senior Full Stack Engineer React Python Specialist",
     "company": "Tech Global Corp",
@@ -7076,6 +7098,28 @@
       "Python",
       "Data Analysis",
       "SQL"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-1706777",
+    "title": "Data Platform Manager",
+    "company": "Cencosud",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-platform-manager-at-cencosud-4485564326",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Data Platform Manager en Cencosud. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Python"
     ],
     "status": "Disponible",
     "notes": "",
@@ -8594,6 +8638,52 @@
       "Similitud del 39% con tus postulaciones de los últimos 6 meses"
     ],
     "is_recent_match": true
+  },
+  {
+    "id": "linkedin-9950634",
+    "title": "Gerente Advanced Analytics",
+    "company": "Cencosud",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-advanced-analytics-at-cencosud-4485098231",
+    "posted_date": "Hace 10 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Gerente Advanced Analytics en Cencosud. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 15,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Alineado con tu Titular de LinkedIn"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-9950634",
+    "title": "Gerente Advanced Analytics",
+    "company": "Cencosud",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-advanced-analytics-at-cencosud-4485098231",
+    "posted_date": "Hace 10 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Gerente Advanced Analytics en Cencosud. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 15,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Alineado con tu Titular de LinkedIn"
+    ],
+    "is_recent_match": false
   },
   {
     "id": "linkedin-9690353",
@@ -10297,6 +10387,50 @@
     "skills": [
       "Git",
       "REST APIs",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-7937061",
+    "title": "Gerente Advance Analytics",
+    "company": "Cencosud",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-advance-analytics-at-cencosud-4487575056",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Gerente Advance Analytics en Cencosud. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 10,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-7937061",
+    "title": "Gerente Advance Analytics",
+    "company": "Cencosud",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/gerente-advance-analytics-at-cencosud-4487575056",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Gerente Advance Analytics en Cencosud. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
       "Software Development"
     ],
     "status": "Disponible",
