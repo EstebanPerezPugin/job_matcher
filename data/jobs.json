@@ -8257,6 +8257,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-9491555",
+    "title": "Jefe/a de Estrategia de Negocios y Analítica",
+    "company": "BancoEstado",
+    "location": "Área metropolitana de Santiago",
+    "url": "https://cl.linkedin.com/jobs/view/jefe-a-de-estrategia-de-negocios-y-anal%C3%ADtica-at-bancoestado-4485838888",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Jefe/a de Estrategia de Negocios y Analítica en BancoEstado. Ubicación: Área metropolitana de Santiago. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505972-1",
     "title": "Senior AI Machine Learning Engineer Specialist",
     "company": "Tech Global Corp",
@@ -8601,6 +8623,28 @@
     "posted_date": "Hace 1 día",
     "search_keyword": "CDO",
     "description": "Oferta de empleo para Chief Technology Officer (CTO) en Ninja Excel. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 16,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-2150446",
+    "title": "CTO (Chief Technology Officer)",
+    "company": "Kanon",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/cto-chief-technology-officer-at-kanon-4485872083",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para CTO (Chief Technology Officer) en Kanon. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
     "skills": [
       "Git",
       "Software Development",
