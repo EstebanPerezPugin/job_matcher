@@ -3464,6 +3464,32 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1794248853-2",
+    "title": "Desarrollador Subgerente Datos & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17942488532",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Excelente oportunidad para desarrolladores Subgerente Datos. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 41,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos",
+      "Similitud del 36% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1791934716-1",
     "title": "Senior Subgerente Datos Specialist",
     "company": "Tech Global Corp",
@@ -3703,6 +3729,32 @@
     "company": "Tech Global Corp",
     "location": "Santiago, Chile (Remoto)",
     "url": "https://www.linkedin.com/jobs/view/17935754701",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Subgerente Datos",
+    "description": "Buscamos un apasionado Subgerente Datos para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 38,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 32% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "job-scraped-1794248853-1",
+    "title": "Senior Subgerente Datos Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17942488531",
     "posted_date": "Hace 1 día",
     "search_keyword": "Subgerente Datos",
     "description": "Buscamos un apasionado Subgerente Datos para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
@@ -5254,6 +5306,29 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-6739174",
+    "title": "Head of Data",
+    "company": "Patria Investments",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-data-at-patria-investments-4489115075",
+    "posted_date": "Hace 32 minutos",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Head of Data en Patria Investments. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 33,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-12256349",
     "title": "Head of Data & Analytics",
     "company": "Global66",
@@ -6276,6 +6351,52 @@
       "Habilidades coincidentes: Python, Sql, Aws"
     ],
     "is_recent_match": false
+  },
+  {
+    "id": "linkedin-288344",
+    "title": "Líder Técnico de Inteligencia Artificial (IA)",
+    "company": "Empresa confidencial",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-inteligencia-artificial-ia-at-empresa-confidencial-4489101307",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Líder Técnico de Inteligencia Artificial (IA) en Empresa confidencial. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
+    "id": "linkedin-288344",
+    "title": "Líder Técnico de Inteligencia Artificial (IA)",
+    "company": "Empresa confidencial",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-inteligencia-artificial-ia-at-empresa-confidencial-4489101307",
+    "posted_date": "Hace 1 hora",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Líder Técnico de Inteligencia Artificial (IA) en Empresa confidencial. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 21,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Similitud del 26% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
   },
   {
     "id": "job-scraped-1785505953-1",
@@ -7462,6 +7583,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-12783520",
+    "title": "Head of Platform, Engineering & Data",
+    "company": "Patria Investments",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/head-of-platform-engineering-data-at-patria-investments-4489113410",
+    "posted_date": "Hace 32 minutos",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Head of Platform, Engineering & Data en Patria Investments. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -8577,6 +8720,28 @@
       "Git",
       "Software Development",
       "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-6899833",
+    "title": "Líder de Loyalty",
+    "company": "Coca-Cola Andina",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-de-loyalty-at-coca-cola-andina-4488879095",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Líder de Loyalty en Coca-Cola Andina. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Software Development",
+      "REST APIs",
+      "Git"
     ],
     "status": "Disponible",
     "notes": "",
