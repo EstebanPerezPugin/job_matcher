@@ -1620,6 +1620,33 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1794278126-1",
+    "title": "Senior CDO Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17942781261",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "CDO",
+    "description": "Buscamos un apasionado CDO para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 48,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos",
+      "Similitud del 33% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785578519-2",
     "title": "Desarrollador CDO & Cloud",
     "company": "InnovaSoft Chile",
@@ -3180,6 +3207,32 @@
     "is_recent_match": false
   },
   {
+    "id": "job-scraped-1794278126-2",
+    "title": "Desarrollador CDO & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17942781262",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "CDO",
+    "description": "Excelente oportunidad para desarrolladores CDO. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 45,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Alineado con tu Titular de LinkedIn",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-5203029",
     "title": "Subgerente Ingeniería de Datos",
     "company": "Cencosud Scotiabank",
@@ -4556,6 +4609,32 @@
     "is_recent_match": true
   },
   {
+    "id": "job-scraped-1794278128-1",
+    "title": "Senior Lider Técnico Data & AI Specialist",
+    "company": "Tech Global Corp",
+    "location": "Santiago, Chile (Remoto)",
+    "url": "https://www.linkedin.com/jobs/view/17942781281",
+    "posted_date": "Hace 1 día",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Buscamos un apasionado Lider Técnico Data & AI para integrarse a equipo remoto en Latinoamérica.Stack moderno con Python, React y Docker.",
+    "skills": [
+      "Python",
+      "React",
+      "Docker",
+      "CI/CD",
+      "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 37,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Git",
+      "Título en tus roles preferidos",
+      "Similitud del 27% con tus postulaciones de los últimos 6 meses"
+    ],
+    "is_recent_match": true
+  },
+  {
     "id": "job-scraped-1785704255-2",
     "title": "Desarrollador Líder Data & AI & Cloud",
     "company": "InnovaSoft Chile",
@@ -5286,6 +5365,31 @@
     "company": "InnovaSoft Chile",
     "location": "Santiago, Chile (Híbrido)",
     "url": "https://www.linkedin.com/jobs/view/17941804812",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Excelente oportunidad para desarrolladores Lider Técnico Data & AI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "FastAPI",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 35,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql, Aws",
+      "Título en tus roles preferidos"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "job-scraped-1794278128-2",
+    "title": "Desarrollador Lider Técnico Data & AI & Cloud",
+    "company": "InnovaSoft Chile",
+    "location": "Santiago, Chile (Híbrido)",
+    "url": "https://www.linkedin.com/jobs/view/17942781282",
     "posted_date": "Hace 2 horas",
     "search_keyword": "Lider Técnico Data & AI",
     "description": "Excelente oportunidad para desarrolladores Lider Técnico Data & AI. Trabajo con microservicios, bases de datos SQL y desplegado en AWS.",
@@ -8742,6 +8846,28 @@
       "Software Development",
       "REST APIs",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-7774327",
+    "title": "Líder de datos",
+    "company": "Empresa Confidencial",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-de-datos-at-empresa-confidencial-4489128445",
+    "posted_date": "Hace 6 horas",
+    "search_keyword": "Chief Data Officer",
+    "description": "Oferta de empleo para Líder de datos en Empresa Confidencial. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "REST APIs",
+      "Git",
+      "Software Development"
     ],
     "status": "Disponible",
     "notes": "",
