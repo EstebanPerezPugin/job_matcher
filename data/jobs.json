@@ -7813,6 +7813,72 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-10119467",
+    "title": "Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-team-lead-at-grupo-falabella-4489952533",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Data Team Lead en Grupo Falabella. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-10119467",
+    "title": "Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-team-lead-at-grupo-falabella-4489952533",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Data Team Lead en Grupo Falabella. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-10119467",
+    "title": "Data Team Lead",
+    "company": "Grupo Falabella",
+    "location": "Las Condes, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/data-team-lead-at-grupo-falabella-4489952533",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Data Team Lead en Grupo Falabella. Ubicación: Las Condes, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -7934,6 +8000,28 @@
     "skills": [
       "Software Development",
       "Git",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 18,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-9578796",
+    "title": "Subgerente de Inteligencia de Pacientes y Mercado",
+    "company": "RedSalud CCHC",
+    "location": "Providencia, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/subgerente-de-inteligencia-de-pacientes-y-mercado-at-redsalud-cchc-4489940555",
+    "posted_date": "Hace 3 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Subgerente de Inteligencia de Pacientes y Mercado en RedSalud CCHC. Ubicación: Providencia, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
       "REST APIs"
     ],
     "status": "Disponible",
@@ -8972,6 +9060,28 @@
       "REST APIs",
       "Git",
       "Software Development"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-6570064",
+    "title": "Chief Revenue Officer",
+    "company": "Wherex",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/chief-revenue-officer-at-wherex-4487827848",
+    "posted_date": "Hace 17 horas",
+    "search_keyword": "CDO",
+    "description": "Oferta de empleo para Chief Revenue Officer en Wherex. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
     ],
     "status": "Disponible",
     "notes": "",
