@@ -7954,6 +7954,28 @@
     "is_recent_match": true
   },
   {
+    "id": "linkedin-15135978",
+    "title": "Lead Data Engineer",
+    "company": "Acid Labs",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/lead-data-engineer-at-acid-labs-4493681848",
+    "posted_date": "Hace 2 horas",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Lead Data Engineer en Acid Labs. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Data Analysis",
+      "SQL",
+      "Python"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 20,
+    "match_reasons": [
+      "Habilidades coincidentes: Python, Sql"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "job-scraped-1785505953-2",
     "title": "Desarrollador Full Stack Engineer React Python & Cloud",
     "company": "InnovaSoft Chile",
