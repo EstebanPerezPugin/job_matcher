@@ -6915,6 +6915,29 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-14103812",
+    "title": "Advanced Analytics Lead",
+    "company": "Cencosud",
+    "location": "Gran Santiago, Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/advanced-analytics-lead-at-cencosud-4493419704",
+    "posted_date": "Hace 4 horas",
+    "search_keyword": "Líder Data & AI",
+    "description": "Oferta de empleo para Advanced Analytics Lead en Cencosud. Ubicación: Gran Santiago, Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 27,
+    "match_reasons": [
+      "Habilidades coincidentes: Git",
+      "Alineado con tu Titular de LinkedIn"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-3018642",
     "title": "Databricks Senior Architect / Technical Lead",
     "company": "Accenture Chile",
@@ -9024,6 +9047,28 @@
     "is_recent_match": false
   },
   {
+    "id": "linkedin-14973584",
+    "title": "Lider Tecnico en IA",
+    "company": "Caja Los Andes",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/lider-tecnico-en-ia-at-caja-los-andes-4493443641",
+    "posted_date": "Hace 32 minutos",
+    "search_keyword": "Lider Técnico Data & AI",
+    "description": "Oferta de empleo para Lider Tecnico en IA en Caja Los Andes. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 19,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
     "id": "linkedin-6246126",
     "title": "Subgerente Regional People Analytics",
     "company": "Cencosud",
@@ -10337,6 +10382,28 @@
       "Software Development",
       "REST APIs",
       "Git"
+    ],
+    "status": "Disponible",
+    "notes": "",
+    "match_score": 17,
+    "match_reasons": [
+      "Habilidades coincidentes: Git"
+    ],
+    "is_recent_match": false
+  },
+  {
+    "id": "linkedin-4500812",
+    "title": "Líder Modelos de datos de Riesgo",
+    "company": "Caja Los Andes",
+    "location": "Región Metropolitana de Santiago, Chile",
+    "url": "https://cl.linkedin.com/jobs/view/l%C3%ADder-modelos-de-datos-de-riesgo-at-caja-los-andes-4493420917",
+    "posted_date": "Hace 3 horas",
+    "search_keyword": "Subgerente Datos",
+    "description": "Oferta de empleo para Líder Modelos de datos de Riesgo en Caja Los Andes. Ubicación: Región Metropolitana de Santiago, Chile. Ver más detalles en el enlace de LinkedIn.",
+    "skills": [
+      "Git",
+      "Software Development",
+      "REST APIs"
     ],
     "status": "Disponible",
     "notes": "",
